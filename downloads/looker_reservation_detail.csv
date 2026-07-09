@@ -1,0 +1,651 @@
+reservation_id,reservation_date,expiry_date,reservation_status,queue_position,member_type,department_or_program,book_id,title,category_name
+R000001,2026-01-08,2026-01-15,fulfilled,,student,Management,B000110,Signal Processing: Methods for Researchers 110,Electrical Engineering
+R000002,2025-12-31,2026-01-07,fulfilled,,student,Chemistry,B000048,Optics: Principles and Applications 48,Physics
+R000003,2025-11-14,2025-11-17,fulfilled,,student,Mechanical Engineering,B000196,Behavioral Analysis: Principles and Applications 196,Psychology
+R000004,2025-01-07,2025-01-19,fulfilled,,public,,B000023,Operations Management: Case Studies and Practice 23,Management
+R000005,2026-07-03,2026-07-07,fulfilled,,student,Literature,B000259,Algorithms: A Modern Approach 259,Computer Science
+R000006,2025-08-07,2025-08-25,fulfilled,,student,Chemistry,B000048,Optics: Principles and Applications 48,Physics
+R000007,2025-06-15,2025-06-18,fulfilled,,student,Economics,B000095,Construction Planning: Principles and Applications 95,Civil Engineering
+R000008,2025-07-25,2025-08-02,fulfilled,,student,Computer Engineering,B000019,Philosophy of Science: Principles and Applications 19,Philosophy
+R000009,2025-05-10,2025-05-28,fulfilled,,student,Mechanical Engineering,B000131,Cloud Computing: A Modern Approach 131,Computer Science
+R000010,2025-06-30,2025-07-05,fulfilled,,student,Chemistry,B000079,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+R000011,2025-12-26,2026-01-13,fulfilled,,faculty,Psychology,B000260,Digital Circuits: Methods for Researchers 260,Electrical Engineering
+R000012,2025-05-14,2025-05-31,fulfilled,,student,Literature,B000125,Optics: An Applied Introduction 125,Physics
+R000013,2025-12-03,2025-12-17,fulfilled,,student,Civil Engineering,B000020,Historical Methods: Methods for Researchers 20,History
+R000014,2026-01-20,2026-01-25,fulfilled,,student,Mechanical Engineering,B000061,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+R000015,2025-07-17,2025-07-29,fulfilled,,student,Management,B000154,"Philosophy of Science: Concepts, Models, and Tools 154",Philosophy
+R000016,2025-07-31,2025-08-12,fulfilled,,student,Literature,B000123,Analytical Chemistry: A Modern Approach 123,Chemistry
+R000017,2024-10-03,2024-10-18,fulfilled,,student,Economics,B000272,Political Philosophy: Principles and Applications 272,Philosophy
+R000018,2026-05-10,2026-05-21,fulfilled,,student,Industrial Engineering,B000042,"Manufacturing Systems: Concepts, Models, and Tools 42",Mechanical Engineering
+R000019,2026-02-24,2026-03-16,fulfilled,,student,Electrical Engineering,B000049,Algorithms: Methods for Researchers 49,Computer Science
+R000020,2025-01-24,2025-01-30,fulfilled,,student,Chemistry,B000177,Quantum Mechanics: Principles and Applications 177,Physics
+R000021,2025-11-03,2025-11-12,fulfilled,,faculty,Mathematics,B000027,Data Mining: Case Studies and Practice 27,Computer Science
+R000022,2025-11-10,2025-11-24,fulfilled,,faculty,Industrial Engineering,B000130,Research Methods: A Modern Approach 130,Psychology
+R000023,2025-02-28,2025-03-12,fulfilled,,student,Economics,B000198,"Microeconomics: Concepts, Models, and Tools 198",Economics
+R000024,2026-06-27,2026-07-02,fulfilled,,staff,Economics,B000132,Optics: A Modern Approach 132,Physics
+R000025,2024-12-21,2025-01-04,fulfilled,,student,Psychology,B000005,Laboratory Methods: Case Studies and Practice 5,Chemistry
+R000026,2024-11-16,2024-11-21,fulfilled,,student,Economics,B000105,Numerical Methods: Case Studies and Practice 105,Mathematics
+R000027,2025-08-15,2025-08-19,fulfilled,,student,Psychology,B000090,Database Systems: Methods for Researchers 90,Computer Science
+R000028,2026-01-30,2026-02-09,fulfilled,,faculty,Mechanical Engineering,B000203,World Literature: Methods for Researchers 203,Literature
+R000029,2025-07-26,2025-07-31,fulfilled,,faculty,Mathematics,B000282,Strategic Management: Methods for Researchers 282,Management
+R000030,2025-03-25,2025-03-31,fulfilled,,student,Economics,B000281,Optics: An Applied Introduction 281,Physics
+R000031,2025-11-23,2025-12-04,fulfilled,,faculty,Mathematics,B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+R000032,2025-03-25,2025-03-29,fulfilled,,faculty,Physics,B000105,Numerical Methods: Case Studies and Practice 105,Mathematics
+R000033,2026-03-22,2026-03-31,fulfilled,,student,History,B000264,Modern Fiction: Case Studies and Practice 264,Literature
+R000034,2025-01-17,2025-02-03,fulfilled,,staff,Mathematics,B000099,Linear Algebra: Case Studies and Practice 99,Mathematics
+R000035,2025-09-29,2025-10-19,fulfilled,,student,Psychology,B000055,Statistical Physics: A Modern Approach 55,Physics
+R000036,2026-01-02,2026-01-08,fulfilled,,student,History,B000242,Probability Theory: A Modern Approach 242,Mathematics
+R000037,2025-10-21,2025-11-08,fulfilled,,public,,B000002,Econometrics: Principles and Applications 2,Economics
+R000038,2025-01-06,2025-01-21,fulfilled,,staff,Civil Engineering,B000020,Historical Methods: Methods for Researchers 20,History
+R000039,2025-11-21,2025-12-06,fulfilled,,student,Computer Engineering,B000279,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+R000040,2025-08-20,2025-08-31,fulfilled,,faculty,Computer Engineering,B000183,Analytical Chemistry: Principles and Applications 183,Chemistry
+R000041,2025-01-31,2025-02-16,fulfilled,,student,Mechanical Engineering,B000041,Algorithms: A Modern Approach 41,Computer Science
+R000042,2025-12-19,2026-01-04,fulfilled,,student,Industrial Engineering,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000043,2026-03-09,2026-03-29,fulfilled,,student,Civil Engineering,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000044,2026-05-21,2026-06-08,fulfilled,,staff,Mathematics,B000106,Strategic Management: An Applied Introduction 106,Management
+R000045,2024-12-28,2025-01-01,fulfilled,,student,Psychology,B000143,Discrete Mathematics: Methods for Researchers 143,Mathematics
+R000046,2025-06-17,2025-06-27,fulfilled,,student,Management,B000236,Project Management: A Modern Approach 236,Management
+R000047,2024-12-23,2024-12-31,fulfilled,,student,Chemistry,B000121,Persian Poetry: Principles and Applications 121,Literature
+R000048,2025-11-03,2025-11-07,fulfilled,,student,Economics,B000272,Political Philosophy: Principles and Applications 272,Philosophy
+R000049,2026-01-02,2026-01-06,fulfilled,,student,Industrial Engineering,B000241,Data Mining: A Modern Approach 241,Computer Science
+R000050,2024-09-30,2024-10-19,fulfilled,,public,,B000230,Business Analytics: Methods for Researchers 230,Management
+R000051,2026-04-13,2026-05-01,fulfilled,,faculty,Literature,B000224,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+R000052,2024-10-15,2024-10-28,fulfilled,,student,Mechanical Engineering,B000105,Numerical Methods: Case Studies and Practice 105,Mathematics
+R000053,2025-09-21,2025-09-28,fulfilled,,student,Computer Engineering,B000021,Statistical Physics: An Applied Introduction 21,Physics
+R000054,2026-06-15,2026-07-05,fulfilled,,student,Economics,B000248,Database Systems: An Applied Introduction 248,Computer Science
+R000055,2024-12-26,2025-01-06,fulfilled,,student,Economics,B000041,Algorithms: A Modern Approach 41,Computer Science
+R000056,2026-02-13,2026-02-27,fulfilled,,student,Industrial Engineering,B000267,"Cloud Computing: Concepts, Models, and Tools 267",Computer Science
+R000057,2024-10-17,2024-10-21,fulfilled,,faculty,Psychology,B000046,Algorithms: Case Studies and Practice 46,Computer Science
+R000058,2025-01-07,2025-01-10,fulfilled,,student,Literature,B000068,Microeconomics: An Applied Introduction 68,Economics
+R000059,2025-03-08,2025-03-24,fulfilled,,student,Mechanical Engineering,B000014,Construction Planning: Case Studies and Practice 14,Civil Engineering
+R000060,2025-07-21,2025-07-29,fulfilled,,faculty,Mechanical Engineering,B000274,"Digital Circuits: Concepts, Models, and Tools 274",Electrical Engineering
+R000061,2026-02-08,2026-02-19,fulfilled,,student,Management,B000095,Construction Planning: Principles and Applications 95,Civil Engineering
+R000062,2026-04-17,2026-05-02,fulfilled,,student,Physics,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000063,2025-06-07,2025-06-13,fulfilled,,student,Chemistry,B000106,Strategic Management: An Applied Introduction 106,Management
+R000064,2026-01-24,2026-01-30,fulfilled,,faculty,Electrical Engineering,B000239,Optics: An Applied Introduction 239,Physics
+R000065,2024-10-20,2024-11-04,fulfilled,,student,Civil Engineering,B000142,"Philosophy of Science: Concepts, Models, and Tools 142",Philosophy
+R000066,2025-06-14,2025-06-25,fulfilled,,student,Civil Engineering,B000196,Behavioral Analysis: Principles and Applications 196,Psychology
+R000067,2025-10-08,2025-10-13,fulfilled,,student,Mechanical Engineering,B000077,Public Policy: Principles and Applications 77,Economics
+R000068,2026-01-29,2026-02-14,fulfilled,,student,Literature,B000201,Robotics: Case Studies and Practice 201,Mechanical Engineering
+R000069,2025-03-18,2025-04-07,fulfilled,,student,Chemistry,B000168,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+R000070,2026-04-11,2026-04-25,fulfilled,,student,Mechanical Engineering,B000109,Probability Theory: A Modern Approach 109,Mathematics
+R000071,2025-07-10,2025-07-25,fulfilled,,student,Industrial Engineering,B000192,Cell Biology: Case Studies and Practice 192,Biology
+R000072,2024-12-16,2024-12-27,fulfilled,,student,Psychology,B000110,Signal Processing: Methods for Researchers 110,Electrical Engineering
+R000073,2025-04-28,2025-05-14,fulfilled,,staff,Literature,B000241,Data Mining: A Modern Approach 241,Computer Science
+R000074,2024-12-21,2024-12-29,fulfilled,,student,Electrical Engineering,B000076,Project Management: Methods for Researchers 76,Management
+R000075,2024-12-26,2025-01-04,fulfilled,,student,Literature,B000029,World History: An Applied Introduction 29,History
+R000076,2026-01-17,2026-02-05,fulfilled,,student,Psychology,B000091,Business Analytics: A Modern Approach 91,Management
+R000077,2026-03-29,2026-04-11,fulfilled,,student,Industrial Engineering,B000258,Microeconomics: A Modern Approach 258,Economics
+R000078,2025-05-01,2025-05-14,fulfilled,,faculty,Literature,B000132,Optics: A Modern Approach 132,Physics
+R000079,2025-06-26,2025-07-06,fulfilled,,student,History,B000067,Signal Processing: Methods for Researchers 67,Electrical Engineering
+R000080,2025-07-07,2025-07-25,fulfilled,,student,Chemistry,B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+R000081,2026-05-14,2026-05-19,fulfilled,,student,Industrial Engineering,B000130,Research Methods: A Modern Approach 130,Psychology
+R000082,2024-11-19,2024-11-22,fulfilled,,student,Economics,B000313,Data Mining: Principles and Applications 313,Computer Science
+R000083,2025-11-16,2025-11-25,fulfilled,,student,Industrial Engineering,B000216,"Microeconomics: Concepts, Models, and Tools 216",Economics
+R000084,2025-11-13,2025-11-25,fulfilled,,student,Industrial Engineering,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000085,2026-02-22,2026-03-05,fulfilled,,student,Management,B000314,Data Mining: A Modern Approach 314,Computer Science
+R000086,2024-12-10,2024-12-27,fulfilled,,public,,B000284,Philosophy of Science: A Modern Approach 284,Philosophy
+R000087,2026-02-03,2026-02-16,fulfilled,,student,Mechanical Engineering,B000031,Cloud Computing: Principles and Applications 31,Computer Science
+R000088,2025-11-22,2025-12-12,fulfilled,,student,Industrial Engineering,B000300,Project Management: Principles and Applications 300,Management
+R000089,2025-11-30,2025-12-10,fulfilled,,faculty,Mathematics,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000090,2025-04-06,2025-04-21,fulfilled,,student,Literature,B000131,Cloud Computing: A Modern Approach 131,Computer Science
+R000091,2025-12-18,2026-01-06,fulfilled,,student,Management,B000036,Structural Analysis: An Applied Introduction 36,Civil Engineering
+R000092,2025-10-31,2025-11-10,fulfilled,,student,Literature,B000130,Research Methods: A Modern Approach 130,Psychology
+R000093,2025-03-15,2025-04-04,fulfilled,,student,Mechanical Engineering,B000251,Numerical Methods: An Applied Introduction 251,Mathematics
+R000094,2025-01-14,2025-01-28,fulfilled,,student,Electrical Engineering,B000074,Strategic Management: Methods for Researchers 74,Management
+R000095,2026-06-04,2026-06-10,fulfilled,,student,Computer Engineering,B000102,Cloud Computing: Principles and Applications 102,Computer Science
+R000096,2025-02-28,2025-03-13,fulfilled,,faculty,Computer Engineering,B000106,Strategic Management: An Applied Introduction 106,Management
+R000097,2025-06-05,2025-06-10,fulfilled,,student,Industrial Engineering,B000248,Database Systems: An Applied Introduction 248,Computer Science
+R000098,2025-05-25,2025-06-06,fulfilled,,staff,Management,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000099,2025-10-15,2025-10-24,fulfilled,,student,Literature,B000093,Database Systems: A Modern Approach 93,Computer Science
+R000100,2024-10-31,2024-11-07,fulfilled,,student,Chemistry,B000027,Data Mining: Case Studies and Practice 27,Computer Science
+R000101,2025-08-12,2025-08-25,fulfilled,,public,,B000318,Business Analytics: Case Studies and Practice 318,Management
+R000102,2025-10-14,2025-10-31,fulfilled,,public,,B000055,Statistical Physics: A Modern Approach 55,Physics
+R000103,2026-06-25,2026-07-04,fulfilled,,student,Psychology,B000023,Operations Management: Case Studies and Practice 23,Management
+R000104,2026-03-18,2026-03-26,fulfilled,,student,Physics,B000075,Philosophy of Science: An Applied Introduction 75,Philosophy
+R000105,2025-02-05,2025-02-13,fulfilled,,staff,Physics,B000224,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+R000106,2025-07-03,2025-07-14,fulfilled,,student,Physics,B000227,Strategic Management: A Modern Approach 227,Management
+R000107,2026-01-18,2026-02-06,fulfilled,,faculty,Management,B000294,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+R000108,2024-10-11,2024-10-16,fulfilled,,student,Chemistry,B000302,"Research Methods: Concepts, Models, and Tools 302",Psychology
+R000109,2025-11-05,2025-11-15,fulfilled,,student,Management,B000128,Cognitive Psychology: Case Studies and Practice 128,Psychology
+R000110,2025-12-25,2025-12-31,fulfilled,,student,Computer Engineering,B000317,Modern Iran: Principles and Applications 317,History
+R000111,2025-10-26,2025-11-08,fulfilled,,staff,Psychology,B000010,Strategic Management: Case Studies and Practice 10,Management
+R000112,2026-03-06,2026-03-12,fulfilled,,student,Electrical Engineering,B000263,Machine Learning: An Applied Introduction 263,Computer Science
+R000113,2025-05-03,2025-05-13,fulfilled,,student,Electrical Engineering,B000033,Numerical Methods: Principles and Applications 33,Mathematics
+R000114,2026-03-14,2026-03-18,fulfilled,,student,Physics,B000215,Signal Processing: Case Studies and Practice 215,Electrical Engineering
+R000115,2025-11-21,2025-12-10,fulfilled,,faculty,Electrical Engineering,B000320,Power Networks: Methods for Researchers 320,Electrical Engineering
+R000116,2025-10-12,2025-10-16,fulfilled,,student,Physics,B000260,Digital Circuits: Methods for Researchers 260,Electrical Engineering
+R000117,2026-02-20,2026-02-23,fulfilled,,student,Chemistry,B000158,Logic: Principles and Applications 158,Philosophy
+R000118,2025-04-07,2025-04-27,fulfilled,,student,History,B000317,Modern Iran: Principles and Applications 317,History
+R000119,2025-06-16,2025-06-20,fulfilled,,faculty,Electrical Engineering,B000251,Numerical Methods: An Applied Introduction 251,Mathematics
+R000120,2025-11-13,2025-11-25,fulfilled,,faculty,Mathematics,B000254,Manufacturing Systems: A Modern Approach 254,Mechanical Engineering
+R000121,2026-02-02,2026-02-07,fulfilled,,student,Industrial Engineering,B000202,Public Policy: An Applied Introduction 202,Economics
+R000122,2026-05-17,2026-05-31,fulfilled,,public,,B000111,Logic: An Applied Introduction 111,Philosophy
+R000123,2026-03-03,2026-03-08,fulfilled,,student,Industrial Engineering,B000261,Algorithms: Methods for Researchers 261,Computer Science
+R000124,2025-12-22,2026-01-04,fulfilled,,student,Electrical Engineering,B000149,Database Systems: An Applied Introduction 149,Computer Science
+R000125,2025-10-06,2025-10-18,fulfilled,,student,Psychology,B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+R000126,2025-01-05,2025-01-13,fulfilled,,student,Psychology,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000127,2024-12-20,2025-01-03,fulfilled,,student,Management,B000182,Behavioral Analysis: Methods for Researchers 182,Psychology
+R000128,2024-11-30,2024-12-04,fulfilled,,public,,B000177,Quantum Mechanics: Principles and Applications 177,Physics
+R000129,2025-06-05,2025-06-08,fulfilled,,student,Computer Engineering,B000317,Modern Iran: Principles and Applications 317,History
+R000130,2025-02-13,2025-02-18,fulfilled,,student,Psychology,B000210,Logic: Methods for Researchers 210,Philosophy
+R000131,2025-06-18,2025-07-08,fulfilled,,student,Computer Engineering,B000033,Numerical Methods: Principles and Applications 33,Mathematics
+R000132,2025-10-14,2025-10-23,fulfilled,,public,,B000245,Political Philosophy: Case Studies and Practice 245,Philosophy
+R000133,2025-08-16,2025-09-03,fulfilled,,faculty,Literature,B000128,Cognitive Psychology: Case Studies and Practice 128,Psychology
+R000134,2026-05-06,2026-05-11,fulfilled,,student,Electrical Engineering,B000076,Project Management: Methods for Researchers 76,Management
+R000135,2025-09-10,2025-09-13,fulfilled,,student,Computer Engineering,B000283,Molecular Biology: Principles and Applications 283,Biology
+R000136,2025-06-26,2025-07-14,fulfilled,,student,Psychology,B000008,Numerical Methods: A Modern Approach 8,Mathematics
+R000137,2025-04-22,2025-05-09,fulfilled,,student,Computer Engineering,B000240,Persian Poetry: Principles and Applications 240,Literature
+R000138,2026-01-03,2026-01-08,fulfilled,,student,Mathematics,B000202,Public Policy: An Applied Introduction 202,Economics
+R000139,2026-05-22,2026-06-05,fulfilled,,student,Literature,B000282,Strategic Management: Methods for Researchers 282,Management
+R000140,2026-01-04,2026-01-19,fulfilled,,student,Mechanical Engineering,B000194,Classical Mechanics: Methods for Researchers 194,Physics
+R000141,2025-09-04,2025-09-12,fulfilled,,faculty,Mechanical Engineering,B000165,Strategic Management: Case Studies and Practice 165,Management
+R000142,2024-12-08,2024-12-28,fulfilled,,student,Chemistry,B000023,Operations Management: Case Studies and Practice 23,Management
+R000143,2025-08-18,2025-08-28,fulfilled,,student,Civil Engineering,B000189,Fluid Mechanics: Principles and Applications 189,Mechanical Engineering
+R000144,2025-02-08,2025-02-25,fulfilled,,student,Civil Engineering,B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics
+R000145,2025-03-13,2025-04-01,fulfilled,,student,Mathematics,B000061,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+R000146,2025-12-30,2026-01-05,fulfilled,,faculty,Industrial Engineering,B000197,Optics: Methods for Researchers 197,Physics
+R000147,2025-04-20,2025-04-28,fulfilled,,student,Computer Engineering,B000211,Probability Theory: A Modern Approach 211,Mathematics
+R000148,2026-01-09,2026-01-23,fulfilled,,staff,Literature,B000115,Business Analytics: An Applied Introduction 115,Management
+R000149,2025-10-29,2025-11-15,fulfilled,,faculty,Electrical Engineering,B000095,Construction Planning: Principles and Applications 95,Civil Engineering
+R000150,2026-02-03,2026-02-09,fulfilled,,student,Electrical Engineering,B000282,Strategic Management: Methods for Researchers 282,Management
+R000151,2026-03-03,2026-03-10,fulfilled,,student,Physics,B000263,Machine Learning: An Applied Introduction 263,Computer Science
+R000152,2025-03-22,2025-04-02,fulfilled,,student,Literature,B000065,Political Philosophy: Principles and Applications 65,Philosophy
+R000153,2025-03-18,2025-03-22,fulfilled,,student,Physics,B000263,Machine Learning: An Applied Introduction 263,Computer Science
+R000154,2025-10-02,2025-10-05,fulfilled,,student,Mathematics,B000234,Control Systems: An Applied Introduction 234,Electrical Engineering
+R000155,2024-11-14,2024-11-20,fulfilled,,student,Mathematics,B000050,Fluid Mechanics: Methods for Researchers 50,Mechanical Engineering
+R000156,2025-08-14,2025-08-22,fulfilled,,student,Civil Engineering,B000268,"Public Policy: Concepts, Models, and Tools 268",Economics
+R000157,2025-08-27,2025-09-11,fulfilled,,student,Physics,B000298,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+R000158,2026-01-26,2026-02-05,fulfilled,,student,Civil Engineering,B000110,Signal Processing: Methods for Researchers 110,Electrical Engineering
+R000159,2025-06-26,2025-07-04,fulfilled,,student,Civil Engineering,B000271,Numerical Methods: An Applied Introduction 271,Mathematics
+R000160,2025-11-28,2025-12-05,fulfilled,,student,Psychology,B000207,"Project Management: Concepts, Models, and Tools 207",Management
+R000161,2025-02-15,2025-02-26,fulfilled,,student,Mechanical Engineering,B000197,Optics: Methods for Researchers 197,Physics
+R000162,2025-06-30,2025-07-07,fulfilled,,student,Mechanical Engineering,B000261,Algorithms: Methods for Researchers 261,Computer Science
+R000163,2025-12-26,2026-01-07,fulfilled,,student,History,B000236,Project Management: A Modern Approach 236,Management
+R000164,2024-11-14,2024-11-18,fulfilled,,staff,Mechanical Engineering,B000261,Algorithms: Methods for Researchers 261,Computer Science
+R000165,2026-02-23,2026-03-02,fulfilled,,public,,B000013,Database Systems: Case Studies and Practice 13,Computer Science
+R000166,2026-01-29,2026-02-07,fulfilled,,student,Industrial Engineering,B000041,Algorithms: A Modern Approach 41,Computer Science
+R000167,2025-08-29,2025-09-09,fulfilled,,student,Literature,B000261,Algorithms: Methods for Researchers 261,Computer Science
+R000168,2025-02-16,2025-03-08,fulfilled,,student,Electrical Engineering,B000236,Project Management: A Modern Approach 236,Management
+R000169,2024-12-26,2025-01-05,fulfilled,,student,Management,B000227,Strategic Management: A Modern Approach 227,Management
+R000170,2025-09-12,2025-10-02,fulfilled,,student,Management,B000309,Numerical Methods: Principles and Applications 309,Mathematics
+R000171,2025-06-27,2025-07-12,fulfilled,,student,Psychology,B000004,Machine Learning: Case Studies and Practice 4,Computer Science
+R000172,2026-06-14,2026-06-20,fulfilled,,student,Electrical Engineering,B000234,Control Systems: An Applied Introduction 234,Electrical Engineering
+R000173,2026-02-17,2026-02-24,fulfilled,,staff,History,B000060,Digital Circuits: A Modern Approach 60,Electrical Engineering
+R000174,2025-02-04,2025-02-09,fulfilled,,staff,Physics,B000177,Quantum Mechanics: Principles and Applications 177,Physics
+R000175,2025-04-09,2025-04-16,fulfilled,,student,Computer Engineering,B000120,Power Networks: Case Studies and Practice 120,Electrical Engineering
+R000176,2025-09-05,2025-09-17,fulfilled,,staff,Computer Engineering,B000093,Database Systems: A Modern Approach 93,Computer Science
+R000177,2024-12-30,2025-01-08,fulfilled,,student,Management,B000313,Data Mining: Principles and Applications 313,Computer Science
+R000178,2025-02-27,2025-03-16,fulfilled,,student,Psychology,B000286,Control Systems: A Modern Approach 286,Electrical Engineering
+R000179,2025-08-12,2025-08-25,fulfilled,,public,,B000224,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+R000180,2025-12-09,2025-12-25,fulfilled,,student,Management,B000318,Business Analytics: Case Studies and Practice 318,Management
+R000181,2025-09-27,2025-10-08,fulfilled,,staff,Mathematics,B000252,Project Management: Principles and Applications 252,Management
+R000182,2025-10-22,2025-11-09,fulfilled,,faculty,Literature,B000279,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+R000183,2025-09-17,2025-10-01,fulfilled,,faculty,Mathematics,B000138,Probability Theory: Case Studies and Practice 138,Mathematics
+R000184,2024-12-19,2025-01-05,fulfilled,,staff,Management,B000079,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+R000185,2025-10-05,2025-10-09,fulfilled,,student,Civil Engineering,B000115,Business Analytics: An Applied Introduction 115,Management
+R000186,2026-01-05,2026-01-14,fulfilled,,student,Psychology,B000091,Business Analytics: A Modern Approach 91,Management
+R000187,2026-04-14,2026-04-20,fulfilled,,student,Industrial Engineering,B000033,Numerical Methods: Principles and Applications 33,Mathematics
+R000188,2025-01-18,2025-01-29,fulfilled,,staff,Literature,B000270,Project Management: Principles and Applications 270,Management
+R000189,2026-05-11,2026-05-24,fulfilled,,student,Management,B000098,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics
+R000190,2024-11-14,2024-11-24,fulfilled,,public,,B000097,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry
+R000191,2025-03-09,2025-03-28,fulfilled,,student,Civil Engineering,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000192,2026-05-16,2026-05-31,fulfilled,,student,Computer Engineering,B000002,Econometrics: Principles and Applications 2,Economics
+R000193,2024-10-23,2024-10-28,fulfilled,,staff,Civil Engineering,B000072,"Analytical Chemistry: Concepts, Models, and Tools 72",Chemistry
+R000194,2025-03-10,2025-03-25,fulfilled,,staff,Mathematics,B000002,Econometrics: Principles and Applications 2,Economics
+R000195,2025-12-10,2025-12-15,fulfilled,,student,Physics,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000196,2025-04-27,2025-05-12,fulfilled,,student,Management,B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+R000197,2025-04-30,2025-05-05,fulfilled,,staff,Civil Engineering,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000198,2025-10-05,2025-10-22,fulfilled,,student,Management,B000149,Database Systems: An Applied Introduction 149,Computer Science
+R000199,2024-10-20,2024-11-06,fulfilled,,student,Industrial Engineering,B000214,Urban Infrastructure: Methods for Researchers 214,Civil Engineering
+R000200,2025-01-09,2025-01-29,fulfilled,,student,Management,B000113,Research Methods: An Applied Introduction 113,Psychology
+R000201,2026-02-20,2026-02-24,fulfilled,,student,Electrical Engineering,B000301,Project Management: A Modern Approach 301,Management
+R000202,2025-08-26,2025-09-08,fulfilled,,faculty,Industrial Engineering,B000140,Analytical Chemistry: Principles and Applications 140,Chemistry
+R000203,2025-08-17,2025-08-27,fulfilled,,staff,Physics,B000169,Urban History: Principles and Applications 169,History
+R000204,2026-04-18,2026-05-04,fulfilled,,faculty,Mathematics,B000077,Public Policy: Principles and Applications 77,Economics
+R000205,2026-03-12,2026-03-21,fulfilled,,faculty,Psychology,B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+R000206,2026-05-20,2026-06-01,fulfilled,,student,Electrical Engineering,B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+R000207,2026-04-03,2026-04-14,fulfilled,,student,Literature,B000167,Development Economics: Case Studies and Practice 167,Economics
+R000208,2024-11-08,2024-11-19,fulfilled,,student,Industrial Engineering,B000278,Literary Criticism: An Applied Introduction 278,Literature
+R000209,2024-10-23,2024-11-07,fulfilled,,student,Industrial Engineering,B000120,Power Networks: Case Studies and Practice 120,Electrical Engineering
+R000210,2026-05-21,2026-05-28,fulfilled,,student,Chemistry,B000100,Organic Chemistry: An Applied Introduction 100,Chemistry
+R000211,2026-05-15,2026-05-21,fulfilled,,staff,Mechanical Engineering,B000251,Numerical Methods: An Applied Introduction 251,Mathematics
+R000212,2025-08-24,2025-09-11,fulfilled,,faculty,Civil Engineering,B000135,Ethics: A Modern Approach 135,Philosophy
+R000213,2025-12-11,2025-12-31,fulfilled,,staff,Physics,B000015,Numerical Methods: An Applied Introduction 15,Mathematics
+R000214,2026-03-21,2026-03-27,fulfilled,,faculty,Mechanical Engineering,B000282,Strategic Management: Methods for Researchers 282,Management
+R000215,2025-08-02,2025-08-13,fulfilled,,student,Chemistry,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000216,2025-09-02,2025-09-12,fulfilled,,public,,B000060,Digital Circuits: A Modern Approach 60,Electrical Engineering
+R000217,2025-05-05,2025-05-17,fulfilled,,faculty,Chemistry,B000234,Control Systems: An Applied Introduction 234,Electrical Engineering
+R000218,2025-08-06,2025-08-25,fulfilled,,student,Industrial Engineering,B000126,Signal Processing: Methods for Researchers 126,Electrical Engineering
+R000219,2026-03-31,2026-04-05,fulfilled,,student,Electrical Engineering,B000012,Microeconomics: A Modern Approach 12,Economics
+R000220,2024-11-23,2024-12-11,fulfilled,,student,Psychology,B000202,Public Policy: An Applied Introduction 202,Economics
+R000221,2024-12-20,2024-12-25,fulfilled,,student,Mechanical Engineering,B000320,Power Networks: Methods for Researchers 320,Electrical Engineering
+R000222,2026-05-31,2026-06-07,fulfilled,,public,,B000168,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+R000223,2025-09-30,2025-10-04,fulfilled,,student,Physics,B000298,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+R000224,2025-01-11,2025-01-19,fulfilled,,student,Psychology,B000184,Logic: Case Studies and Practice 184,Philosophy
+R000225,2025-12-27,2026-01-09,fulfilled,,staff,Literature,B000051,Control Systems: Principles and Applications 51,Electrical Engineering
+R000226,2025-02-12,2025-03-03,fulfilled,,staff,Physics,B000247,Research Methods: Case Studies and Practice 247,Psychology
+R000227,2025-08-31,2025-09-10,fulfilled,,public,,B000173,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+R000228,2025-03-13,2025-03-20,fulfilled,,student,Physics,B000015,Numerical Methods: An Applied Introduction 15,Mathematics
+R000229,2026-02-18,2026-03-10,fulfilled,,student,Mathematics,B000087,Power Networks: Methods for Researchers 87,Electrical Engineering
+R000230,2024-11-21,2024-12-11,fulfilled,,student,History,B000249,Quantum Mechanics: Principles and Applications 249,Physics
+R000231,2025-06-25,2025-07-06,fulfilled,,student,Mechanical Engineering,B000247,Research Methods: Case Studies and Practice 247,Psychology
+R000232,2025-03-23,2025-04-06,fulfilled,,student,Industrial Engineering,B000074,Strategic Management: Methods for Researchers 74,Management
+R000233,2026-05-23,2026-06-03,fulfilled,,student,Chemistry,B000079,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+R000234,2024-12-07,2024-12-27,fulfilled,,faculty,Mathematics,B000108,Robotics: An Applied Introduction 108,Mechanical Engineering
+R000235,2026-01-27,2026-01-31,fulfilled,,faculty,Civil Engineering,B000116,Data Mining: An Applied Introduction 116,Computer Science
+R000236,2026-04-03,2026-04-16,fulfilled,,faculty,Physics,B000034,"Ecology: Concepts, Models, and Tools 34",Biology
+R000237,2024-10-25,2024-11-13,fulfilled,,student,Management,B000138,Probability Theory: Case Studies and Practice 138,Mathematics
+R000238,2025-09-21,2025-09-24,fulfilled,,student,Economics,B000251,Numerical Methods: An Applied Introduction 251,Mathematics
+R000239,2025-01-07,2025-01-24,fulfilled,,student,Electrical Engineering,B000189,Fluid Mechanics: Principles and Applications 189,Mechanical Engineering
+R000240,2025-04-19,2025-05-07,fulfilled,,student,Computer Engineering,B000077,Public Policy: Principles and Applications 77,Economics
+R000241,2025-04-07,2025-04-20,fulfilled,,staff,Industrial Engineering,B000269,Fluid Mechanics: Methods for Researchers 269,Mechanical Engineering
+R000242,2025-03-31,2025-04-06,fulfilled,,student,Management,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000243,2025-02-24,2025-03-04,fulfilled,,student,Physics,B000240,Persian Poetry: Principles and Applications 240,Literature
+R000244,2025-08-14,2025-08-27,fulfilled,,staff,Literature,B000078,Public Policy: Methods for Researchers 78,Economics
+R000245,2025-10-08,2025-10-24,fulfilled,,student,Economics,B000182,Behavioral Analysis: Methods for Researchers 182,Psychology
+R000246,2024-12-15,2024-12-24,fulfilled,,student,Mechanical Engineering,B000164,Operations Management: Case Studies and Practice 164,Management
+R000247,2026-03-23,2026-04-11,fulfilled,,student,Psychology,B000165,Strategic Management: Case Studies and Practice 165,Management
+R000248,2026-02-04,2026-02-16,fulfilled,,student,Management,B000126,Signal Processing: Methods for Researchers 126,Electrical Engineering
+R000249,2025-03-22,2025-03-26,fulfilled,,faculty,Electrical Engineering,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000250,2026-06-10,2026-06-18,fulfilled,,student,Literature,B000173,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+R000251,2026-06-04,2026-06-22,fulfilled,,student,Industrial Engineering,B000277,Operations Management: Case Studies and Practice 277,Management
+R000252,2026-01-19,2026-01-29,fulfilled,,faculty,Management,B000171,Discrete Mathematics: A Modern Approach 171,Mathematics
+R000253,2024-11-24,2024-12-02,fulfilled,,public,,B000067,Signal Processing: Methods for Researchers 67,Electrical Engineering
+R000254,2025-08-28,2025-09-12,fulfilled,,public,,B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+R000255,2024-12-04,2024-12-22,fulfilled,,public,,B000294,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+R000256,2025-01-05,2025-01-13,fulfilled,,student,Management,B000242,Probability Theory: A Modern Approach 242,Mathematics
+R000257,2025-01-11,2025-01-29,fulfilled,,student,Computer Engineering,B000264,Modern Fiction: Case Studies and Practice 264,Literature
+R000258,2026-03-07,2026-03-22,fulfilled,,student,Management,B000228,Analytical Chemistry: Case Studies and Practice 228,Chemistry
+R000259,2024-10-28,2024-11-05,fulfilled,,student,Psychology,B000263,Machine Learning: An Applied Introduction 263,Computer Science
+R000260,2025-09-05,2025-09-08,fulfilled,,student,Literature,B000306,"Literary Criticism: Concepts, Models, and Tools 306",Literature
+R000261,2026-07-01,2026-07-11,waiting,6,student,Industrial Engineering,B000295,Discrete Mathematics: An Applied Introduction 295,Mathematics
+R000262,2026-06-22,2026-07-09,waiting,6,student,Mechanical Engineering,B000231,Materials Chemistry: A Modern Approach 231,Chemistry
+R000263,2026-07-01,2026-07-16,waiting,15,student,Literature,B000123,Analytical Chemistry: A Modern Approach 123,Chemistry
+R000264,2024-11-28,2024-12-04,cancelled,,staff,Civil Engineering,B000052,Development Economics: Case Studies and Practice 52,Economics
+R000265,2026-06-23,2026-07-15,waiting,15,student,Civil Engineering,B000203,World Literature: Methods for Researchers 203,Literature
+R000266,2026-05-25,2026-06-02,expired,,student,Psychology,B000165,Strategic Management: Case Studies and Practice 165,Management
+R000267,2024-10-15,2024-10-23,cancelled,,student,Psychology,B000063,Business Analytics: Principles and Applications 63,Management
+R000268,2025-04-21,2025-05-03,expired,,student,Management,B000286,Control Systems: A Modern Approach 286,Electrical Engineering
+R000269,2026-07-05,2026-07-13,ready_for_pickup,,student,Chemistry,B000127,Manufacturing Systems: Principles and Applications 127,Mechanical Engineering
+R000270,2026-06-16,2026-07-09,waiting,17,staff,Physics,B000009,Signal Processing: Methods for Researchers 9,Electrical Engineering
+R000271,2025-06-16,2025-06-26,cancelled,,faculty,Literature,B000172,"Quantum Mechanics: Concepts, Models, and Tools 172",Physics
+R000272,2024-11-05,2024-11-13,expired,,student,Economics,B000178,Political Philosophy: Principles and Applications 178,Philosophy
+R000273,2026-06-29,2026-07-09,waiting,4,student,Civil Engineering,B000309,Numerical Methods: Principles and Applications 309,Mathematics
+R000274,2025-08-12,2025-08-16,expired,,student,Psychology,B000239,Optics: An Applied Introduction 239,Physics
+R000275,2025-09-08,2025-09-17,cancelled,,student,Physics,B000120,Power Networks: Case Studies and Practice 120,Electrical Engineering
+R000276,2024-10-29,2024-11-09,cancelled,,student,Management,B000313,Data Mining: Principles and Applications 313,Computer Science
+R000277,2025-04-10,2025-04-14,cancelled,,student,Literature,B000135,Ethics: A Modern Approach 135,Philosophy
+R000278,2026-06-18,2026-07-13,ready_for_pickup,,student,Mathematics,B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+R000279,2025-11-17,2025-11-27,expired,,faculty,Chemistry,B000317,Modern Iran: Principles and Applications 317,History
+R000280,2026-02-16,2026-02-20,expired,,student,Literature,B000022,Machine Learning: Principles and Applications 22,Computer Science
+R000281,2026-06-19,2026-07-11,waiting,12,staff,Literature,B000080,Laboratory Methods: A Modern Approach 80,Chemistry
+R000282,2025-05-22,2025-06-01,cancelled,,faculty,Mechanical Engineering,B000313,Data Mining: Principles and Applications 313,Computer Science
+R000283,2025-03-01,2025-03-08,expired,,faculty,Management,B000268,"Public Policy: Concepts, Models, and Tools 268",Economics
+R000284,2025-01-25,2025-02-02,expired,,student,History,B000163,Classical Mechanics: Case Studies and Practice 163,Physics
+R000285,2025-06-15,2025-06-24,cancelled,,student,Industrial Engineering,B000074,Strategic Management: Methods for Researchers 74,Management
+R000286,2025-03-20,2025-03-26,cancelled,,student,History,B000259,Algorithms: A Modern Approach 259,Computer Science
+R000287,2026-07-07,2026-07-14,waiting,8,student,Chemistry,B000071,"Quantum Mechanics: Concepts, Models, and Tools 71",Physics
+R000288,2026-01-06,2026-01-11,cancelled,,staff,Mechanical Engineering,B000102,Cloud Computing: Principles and Applications 102,Computer Science
+R000289,2026-06-30,2026-07-13,waiting,18,public,,B000264,Modern Fiction: Case Studies and Practice 264,Literature
+R000290,2026-06-17,2026-07-14,waiting,14,faculty,Civil Engineering,B000096,Manufacturing Systems: A Modern Approach 96,Mechanical Engineering
+R000291,2026-06-27,2026-07-16,waiting,1,staff,Physics,B000173,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+R000292,2026-06-22,2026-07-15,ready_for_pickup,,staff,Physics,B000287,Database Systems: Methods for Researchers 287,Computer Science
+R000293,2026-06-24,2026-07-03,cancelled,,student,Electrical Engineering,B000299,Logic: A Modern Approach 299,Philosophy
+R000294,2026-06-29,2026-07-16,waiting,8,faculty,Chemistry,B000061,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+R000295,2025-05-23,2025-05-26,cancelled,,student,Chemistry,B000300,Project Management: Principles and Applications 300,Management
+R000296,2026-07-05,2026-07-15,waiting,8,staff,Industrial Engineering,B000288,Signal Processing: A Modern Approach 288,Electrical Engineering
+R000297,2026-06-25,2026-07-15,waiting,9,faculty,Management,B000211,Probability Theory: A Modern Approach 211,Mathematics
+R000298,2024-10-16,2024-10-20,expired,,faculty,Industrial Engineering,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000299,2026-02-28,2026-03-11,cancelled,,student,Industrial Engineering,B000077,Public Policy: Principles and Applications 77,Economics
+R000300,2025-05-16,2025-05-26,expired,,student,Electrical Engineering,B000005,Laboratory Methods: Case Studies and Practice 5,Chemistry
+R000301,2026-07-07,2026-07-13,waiting,11,student,Economics,B000246,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+R000302,2025-06-25,2025-07-03,expired,,student,Chemistry,B000035,Quantum Mechanics: Case Studies and Practice 35,Physics
+R000303,2026-06-17,2026-07-12,ready_for_pickup,,student,Management,B000046,Algorithms: Case Studies and Practice 46,Computer Science
+R000304,2026-06-27,2026-07-13,waiting,10,student,Management,B000268,"Public Policy: Concepts, Models, and Tools 268",Economics
+R000305,2025-01-16,2025-01-28,cancelled,,student,Chemistry,B000265,"Database Systems: Concepts, Models, and Tools 265",Computer Science
+R000306,2025-09-07,2025-09-14,expired,,faculty,Industrial Engineering,B000119,Analytical Chemistry: Principles and Applications 119,Chemistry
+R000307,2024-10-29,2024-11-05,cancelled,,staff,Mathematics,B000012,Microeconomics: A Modern Approach 12,Economics
+R000308,2026-03-08,2026-03-15,expired,,student,Mathematics,B000210,Logic: Methods for Researchers 210,Philosophy
+R000309,2026-06-27,2026-07-13,waiting,6,public,,B000031,Cloud Computing: Principles and Applications 31,Computer Science
+R000310,2026-06-25,2026-07-12,ready_for_pickup,,student,Electrical Engineering,B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+R000311,2026-07-05,2026-07-15,cancelled,,student,Psychology,B000142,"Philosophy of Science: Concepts, Models, and Tools 142",Philosophy
+R000312,2025-03-01,2025-03-07,expired,,student,Mechanical Engineering,B000260,Digital Circuits: Methods for Researchers 260,Electrical Engineering
+R000313,2024-12-02,2024-12-06,cancelled,,faculty,Civil Engineering,B000215,Signal Processing: Case Studies and Practice 215,Electrical Engineering
+R000314,2026-07-06,2026-07-11,cancelled,,staff,Industrial Engineering,B000115,Business Analytics: An Applied Introduction 115,Management
+R000315,2025-06-20,2025-07-02,cancelled,,student,Physics,B000206,"Manufacturing Systems: Concepts, Models, and Tools 206",Mechanical Engineering
+R000316,2025-12-02,2025-12-13,cancelled,,student,Management,B000264,Modern Fiction: Case Studies and Practice 264,Literature
+R000317,2025-03-24,2025-03-28,cancelled,,student,Electrical Engineering,B000273,Development Economics: Methods for Researchers 273,Economics
+R000318,2026-07-06,2026-07-10,waiting,4,student,Mechanical Engineering,B000077,Public Policy: Principles and Applications 77,Economics
+R000319,2026-06-21,2026-07-13,waiting,3,student,Mechanical Engineering,B000119,Analytical Chemistry: Principles and Applications 119,Chemistry
+R000320,2025-11-08,2025-11-20,expired,,faculty,Psychology,B000058,Linear Algebra: A Modern Approach 58,Mathematics
+R000321,2025-05-14,2025-05-20,cancelled,,staff,Mechanical Engineering,B000160,Machine Learning: A Modern Approach 160,Computer Science
+R000322,2026-07-06,2026-07-13,ready_for_pickup,,public,,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000323,2026-03-05,2026-03-10,cancelled,,student,Management,B000248,Database Systems: An Applied Introduction 248,Computer Science
+R000324,2025-05-09,2025-05-12,cancelled,,student,Management,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000325,2025-03-31,2025-04-08,cancelled,,student,Computer Engineering,B000282,Strategic Management: Methods for Researchers 282,Management
+R000326,2025-01-19,2025-01-22,cancelled,,staff,Electrical Engineering,B000241,Data Mining: A Modern Approach 241,Computer Science
+R000327,2025-12-04,2025-12-12,expired,,student,Physics,B000208,Data Mining: Methods for Researchers 208,Computer Science
+R000328,2026-07-07,2026-07-12,waiting,13,student,Mathematics,B000126,Signal Processing: Methods for Researchers 126,Electrical Engineering
+R000329,2026-06-19,2026-07-15,waiting,13,student,Mechanical Engineering,B000203,World Literature: Methods for Researchers 203,Literature
+R000330,2026-07-01,2026-07-08,cancelled,,student,Electrical Engineering,B000251,Numerical Methods: An Applied Introduction 251,Mathematics
+R000331,2026-01-01,2026-01-07,expired,,student,History,B000002,Econometrics: Principles and Applications 2,Economics
+R000332,2024-12-20,2024-12-27,expired,,student,Psychology,B000032,Analytical Chemistry: Principles and Applications 32,Chemistry
+R000333,2025-07-04,2025-07-09,cancelled,,student,Mechanical Engineering,B000155,Construction Planning: A Modern Approach 155,Civil Engineering
+R000334,2026-01-08,2026-01-18,expired,,student,Psychology,B000070,"Philosophy of Science: Concepts, Models, and Tools 70",Philosophy
+R000335,2024-12-24,2024-12-30,expired,,student,Computer Engineering,B000247,Research Methods: Case Studies and Practice 247,Psychology
+R000336,2025-03-09,2025-03-18,expired,,staff,Physics,B000067,Signal Processing: Methods for Researchers 67,Electrical Engineering
+R000337,2026-06-30,2026-07-09,ready_for_pickup,,student,Literature,B000050,Fluid Mechanics: Methods for Researchers 50,Mechanical Engineering
+R000338,2025-09-05,2025-09-17,expired,,student,Mathematics,B000283,Molecular Biology: Principles and Applications 283,Biology
+R000339,2026-06-30,2026-07-11,waiting,17,student,Mechanical Engineering,B000293,Econometrics: Principles and Applications 293,Economics
+R000340,2025-01-20,2025-01-24,expired,,student,Industrial Engineering,B000296,Robotics: Methods for Researchers 296,Mechanical Engineering
+R000341,2024-12-26,2024-12-30,cancelled,,faculty,Chemistry,B000223,Digital Circuits: A Modern Approach 223,Electrical Engineering
+R000342,2025-08-24,2025-08-30,expired,,student,Economics,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000343,2026-06-25,2026-07-15,ready_for_pickup,,student,Literature,B000230,Business Analytics: Methods for Researchers 230,Management
+R000344,2026-03-05,2026-03-15,cancelled,,faculty,Mathematics,B000211,Probability Theory: A Modern Approach 211,Mathematics
+R000345,2025-09-07,2025-09-16,expired,,faculty,Electrical Engineering,B000125,Optics: An Applied Introduction 125,Physics
+R000346,2026-06-19,2026-07-09,waiting,17,student,Psychology,B000269,Fluid Mechanics: Methods for Researchers 269,Mechanical Engineering
+R000347,2025-02-24,2025-03-05,cancelled,,student,Computer Engineering,B000178,Political Philosophy: Principles and Applications 178,Philosophy
+R000348,2025-11-02,2025-11-13,expired,,student,Psychology,B000138,Probability Theory: Case Studies and Practice 138,Mathematics
+R000349,2025-06-02,2025-06-13,expired,,student,Psychology,B000161,"Thermodynamics: Concepts, Models, and Tools 161",Mechanical Engineering
+R000350,2024-10-08,2024-10-19,cancelled,,student,Chemistry,B000241,Data Mining: A Modern Approach 241,Computer Science
+R000351,2025-03-26,2025-04-02,expired,,student,Mechanical Engineering,B000296,Robotics: Methods for Researchers 296,Mechanical Engineering
+R000352,2026-01-23,2026-01-28,cancelled,,student,Management,B000281,Optics: An Applied Introduction 281,Physics
+R000353,2026-05-25,2026-06-03,expired,,student,Civil Engineering,B000122,Database Systems: Methods for Researchers 122,Computer Science
+R000354,2024-10-09,2024-10-12,expired,,staff,Management,B000290,Business Analytics: Case Studies and Practice 290,Management
+R000355,2026-06-06,2026-06-11,expired,,staff,Physics,B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+R000356,2026-06-18,2026-07-13,waiting,7,student,Chemistry,B000188,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering
+R000357,2026-01-19,2026-01-29,cancelled,,staff,Physics,B000038,Development Economics: Methods for Researchers 38,Economics
+R000358,2026-06-20,2026-07-16,waiting,3,faculty,Mechanical Engineering,B000296,Robotics: Methods for Researchers 296,Mechanical Engineering
+R000359,2026-01-22,2026-01-31,expired,,student,Literature,B000247,Research Methods: Case Studies and Practice 247,Psychology
+R000360,2026-06-22,2026-07-11,waiting,7,student,Literature,B000189,Fluid Mechanics: Principles and Applications 189,Mechanical Engineering
+R000361,2025-01-07,2025-01-11,expired,,student,Electrical Engineering,B000002,Econometrics: Principles and Applications 2,Economics
+R000362,2026-06-18,2026-07-15,waiting,13,student,Physics,B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+R000363,2025-12-29,2026-01-03,cancelled,,student,Management,B000290,Business Analytics: Case Studies and Practice 290,Management
+R000364,2025-04-14,2025-04-24,expired,,student,Industrial Engineering,B000142,"Philosophy of Science: Concepts, Models, and Tools 142",Philosophy
+R000365,2026-05-09,2026-05-17,cancelled,,student,Physics,B000187,Molecular Biology: Methods for Researchers 187,Biology
+R000366,2026-05-31,2026-06-05,expired,,student,Literature,B000128,Cognitive Psychology: Case Studies and Practice 128,Psychology
+R000367,2026-06-21,2026-07-10,ready_for_pickup,,student,Literature,B000156,Cloud Computing: Case Studies and Practice 156,Computer Science
+R000368,2025-08-13,2025-08-18,expired,,public,,B000250,Learning Theory: Methods for Researchers 250,Psychology
+R000369,2025-04-15,2025-04-27,cancelled,,student,Electrical Engineering,B000311,Cell Biology: Case Studies and Practice 311,Biology
+R000370,2026-06-21,2026-07-10,waiting,12,student,Civil Engineering,B000200,Modern Fiction: An Applied Introduction 200,Literature
+R000371,2025-01-24,2025-02-05,cancelled,,student,Management,B000200,Modern Fiction: An Applied Introduction 200,Literature
+R000372,2026-07-03,2026-07-16,ready_for_pickup,,student,Mechanical Engineering,B000165,Strategic Management: Case Studies and Practice 165,Management
+R000373,2026-06-16,2026-07-12,waiting,2,student,Industrial Engineering,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000374,2026-07-05,2026-07-13,ready_for_pickup,,student,Economics,B000289,Classical Mechanics: An Applied Introduction 289,Physics
+R000375,2026-05-15,2026-05-19,expired,,staff,Mathematics,B000246,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+R000376,2025-08-12,2025-08-21,expired,,student,Management,B000039,Cloud Computing: Methods for Researchers 39,Computer Science
+R000377,2025-12-08,2025-12-20,expired,,student,Industrial Engineering,B000134,Analytical Chemistry: An Applied Introduction 134,Chemistry
+R000378,2026-06-20,2026-07-14,ready_for_pickup,,student,Management,B000085,Development Economics: Principles and Applications 85,Economics
+R000379,2025-12-25,2025-12-31,expired,,student,Literature,B000237,Genetics: A Modern Approach 237,Biology
+R000380,2026-06-17,2026-07-16,ready_for_pickup,,student,History,B000210,Logic: Methods for Researchers 210,Philosophy
+R000381,2025-11-12,2025-11-15,expired,,student,Management,B000265,"Database Systems: Concepts, Models, and Tools 265",Computer Science
+R000382,2026-07-01,2026-07-15,waiting,8,student,Electrical Engineering,B000198,"Microeconomics: Concepts, Models, and Tools 198",Economics
+R000383,2026-06-19,2026-07-09,waiting,16,staff,Mathematics,B000190,Classical Mechanics: Principles and Applications 190,Physics
+R000384,2026-06-24,2026-07-10,waiting,6,student,Psychology,B000055,Statistical Physics: A Modern Approach 55,Physics
+R000385,2026-03-31,2026-04-06,cancelled,,student,Mechanical Engineering,B000080,Laboratory Methods: A Modern Approach 80,Chemistry
+R000386,2026-07-03,2026-07-16,waiting,17,student,Management,B000308,Urban Infrastructure: Methods for Researchers 308,Civil Engineering
+R000387,2026-07-04,2026-07-16,waiting,18,faculty,Computer Engineering,B000113,Research Methods: An Applied Introduction 113,Psychology
+R000388,2025-04-24,2025-04-27,expired,,student,Mathematics,B000199,Behavioral Analysis: Methods for Researchers 199,Psychology
+R000389,2026-07-05,2026-07-15,waiting,18,student,Physics,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000390,2025-05-21,2025-05-30,expired,,staff,Mathematics,B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics
+R000391,2026-06-12,2026-06-16,cancelled,,student,Psychology,B000314,Data Mining: A Modern Approach 314,Computer Science
+R000392,2025-11-28,2025-12-05,expired,,student,Literature,B000279,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+R000393,2026-06-19,2026-07-11,ready_for_pickup,,student,Industrial Engineering,B000117,Microeconomics: Case Studies and Practice 117,Economics
+R000394,2026-02-27,2026-03-07,cancelled,,student,Management,B000033,Numerical Methods: Principles and Applications 33,Mathematics
+R000395,2026-06-22,2026-07-09,ready_for_pickup,,student,Literature,B000264,Modern Fiction: Case Studies and Practice 264,Literature
+R000396,2026-06-29,2026-07-14,waiting,17,staff,Industrial Engineering,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000397,2026-02-07,2026-02-11,cancelled,,student,Management,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000398,2025-02-25,2025-03-07,cancelled,,student,Physics,B000255,Ecology: A Modern Approach 255,Biology
+R000399,2026-06-19,2026-07-13,ready_for_pickup,,faculty,Physics,B000180,"Quantum Mechanics: Concepts, Models, and Tools 180",Physics
+R000400,2026-06-22,2026-07-13,waiting,5,staff,Management,B000250,Learning Theory: Methods for Researchers 250,Psychology
+R000401,2026-06-20,2026-07-10,waiting,15,student,Chemistry,B000008,Numerical Methods: A Modern Approach 8,Mathematics
+R000402,2026-07-02,2026-07-12,ready_for_pickup,,student,Mechanical Engineering,B000061,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+R000403,2024-12-17,2024-12-25,expired,,student,Computer Engineering,B000319,Cell Biology: An Applied Introduction 319,Biology
+R000404,2025-02-22,2025-03-04,expired,,student,Mechanical Engineering,B000112,Literary Criticism: Methods for Researchers 112,Literature
+R000405,2026-06-16,2026-07-15,ready_for_pickup,,public,,B000050,Fluid Mechanics: Methods for Researchers 50,Mechanical Engineering
+R000406,2025-08-30,2025-09-09,cancelled,,staff,Electrical Engineering,B000194,Classical Mechanics: Methods for Researchers 194,Physics
+R000407,2026-07-03,2026-07-15,ready_for_pickup,,student,Industrial Engineering,B000289,Classical Mechanics: An Applied Introduction 289,Physics
+R000408,2025-12-30,2026-01-03,expired,,student,Management,B000306,"Literary Criticism: Concepts, Models, and Tools 306",Literature
+R000409,2026-04-26,2026-04-30,cancelled,,student,Mechanical Engineering,B000115,Business Analytics: An Applied Introduction 115,Management
+R000410,2025-09-11,2025-09-20,cancelled,,student,Chemistry,B000282,Strategic Management: Methods for Researchers 282,Management
+R000411,2026-06-25,2026-07-10,waiting,7,student,Chemistry,B000103,"Data Mining: Concepts, Models, and Tools 103",Computer Science
+R000412,2025-11-19,2025-11-30,expired,,staff,Mathematics,B000125,Optics: An Applied Introduction 125,Physics
+R000413,2025-02-10,2025-02-17,cancelled,,student,Computer Engineering,B000214,Urban Infrastructure: Methods for Researchers 214,Civil Engineering
+R000414,2026-06-21,2026-07-11,waiting,11,student,Psychology,B000287,Database Systems: Methods for Researchers 287,Computer Science
+R000415,2026-05-15,2026-05-23,expired,,staff,Physics,B000171,Discrete Mathematics: A Modern Approach 171,Mathematics
+R000416,2026-01-11,2026-01-21,cancelled,,student,Physics,B000005,Laboratory Methods: Case Studies and Practice 5,Chemistry
+R000417,2026-06-18,2026-07-10,waiting,7,faculty,Industrial Engineering,B000146,Quantum Mechanics: An Applied Introduction 146,Physics
+R000418,2026-07-05,2026-07-16,waiting,8,student,Economics,B000295,Discrete Mathematics: An Applied Introduction 295,Mathematics
+R000419,2026-07-05,2026-07-09,ready_for_pickup,,student,Chemistry,B000002,Econometrics: Principles and Applications 2,Economics
+R000420,2025-05-05,2025-05-09,cancelled,,student,Chemistry,B000250,Learning Theory: Methods for Researchers 250,Psychology
+R000421,2025-04-04,2025-04-08,cancelled,,student,Literature,B000119,Analytical Chemistry: Principles and Applications 119,Chemistry
+R000422,2026-06-21,2026-07-15,ready_for_pickup,,public,,B000196,Behavioral Analysis: Principles and Applications 196,Psychology
+R000423,2024-12-30,2025-01-07,expired,,student,Electrical Engineering,B000182,Behavioral Analysis: Methods for Researchers 182,Psychology
+R000424,2025-02-17,2025-02-23,cancelled,,staff,Psychology,B000300,Project Management: Principles and Applications 300,Management
+R000425,2026-06-24,2026-07-15,ready_for_pickup,,student,Mathematics,B000017,Strategic Management: Principles and Applications 17,Management
+R000426,2026-06-06,2026-06-12,cancelled,,student,Civil Engineering,B000010,Strategic Management: Case Studies and Practice 10,Management
+R000427,2025-08-27,2025-09-08,cancelled,,student,Civil Engineering,B000023,Operations Management: Case Studies and Practice 23,Management
+R000428,2025-12-19,2025-12-28,cancelled,,student,Literature,B000248,Database Systems: An Applied Introduction 248,Computer Science
+R000429,2026-06-27,2026-07-09,ready_for_pickup,,student,Electrical Engineering,B000193,Operations Management: Principles and Applications 193,Management
+R000430,2026-04-04,2026-04-14,expired,,student,History,B000167,Development Economics: Case Studies and Practice 167,Economics
+R000431,2026-04-27,2026-05-09,expired,,student,Economics,B000056,Logic: An Applied Introduction 56,Philosophy
+R000432,2025-06-13,2025-06-18,expired,,public,,B000106,Strategic Management: An Applied Introduction 106,Management
+R000433,2024-11-17,2024-11-21,cancelled,,faculty,Management,B000147,Modern Fiction: Case Studies and Practice 147,Literature
+R000434,2026-01-20,2026-01-24,cancelled,,student,Management,B000085,Development Economics: Principles and Applications 85,Economics
+R000435,2025-02-26,2025-03-03,cancelled,,student,Literature,B000226,"Analytical Chemistry: Concepts, Models, and Tools 226",Chemistry
+R000436,2026-06-18,2026-07-14,waiting,14,student,Literature,B000099,Linear Algebra: Case Studies and Practice 99,Mathematics
+R000437,2026-03-14,2026-03-20,cancelled,,student,History,B000303,Molecular Biology: Case Studies and Practice 303,Biology
+R000438,2026-06-21,2026-07-14,ready_for_pickup,,staff,Industrial Engineering,B000168,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+R000439,2025-03-22,2025-03-27,cancelled,,faculty,Physics,B000192,Cell Biology: Case Studies and Practice 192,Biology
+R000440,2026-06-29,2026-07-09,waiting,4,student,Computer Engineering,B000088,"Modern Iran: Concepts, Models, and Tools 88",History
+R000441,2025-12-31,2026-01-05,expired,,student,Electrical Engineering,B000126,Signal Processing: Methods for Researchers 126,Electrical Engineering
+R000442,2026-06-22,2026-07-16,waiting,18,student,Economics,B000014,Construction Planning: Case Studies and Practice 14,Civil Engineering
+R000443,2026-06-16,2026-06-26,expired,,student,Psychology,B000104,Control Systems: Principles and Applications 104,Electrical Engineering
+R000444,2026-07-02,2026-07-15,waiting,5,student,Civil Engineering,B000137,Construction Planning: A Modern Approach 137,Civil Engineering
+R000445,2026-06-29,2026-07-10,ready_for_pickup,,student,Electrical Engineering,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000446,2026-06-30,2026-07-12,waiting,16,staff,Economics,B000170,Modern Fiction: Methods for Researchers 170,Literature
+R000447,2025-03-17,2025-03-29,expired,,student,Electrical Engineering,B000313,Data Mining: Principles and Applications 313,Computer Science
+R000448,2026-06-28,2026-07-13,waiting,5,public,,B000244,Ecology: A Modern Approach 244,Biology
+R000449,2026-06-21,2026-07-16,waiting,3,student,Electrical Engineering,B000200,Modern Fiction: An Applied Introduction 200,Literature
+R000450,2026-06-09,2026-06-19,cancelled,,student,Literature,B000087,Power Networks: Methods for Researchers 87,Electrical Engineering
+R000451,2025-09-04,2025-09-12,cancelled,,student,Computer Engineering,B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics
+R000452,2026-05-11,2026-05-23,cancelled,,student,Psychology,B000318,Business Analytics: Case Studies and Practice 318,Management
+R000453,2024-12-30,2025-01-06,expired,,faculty,Mechanical Engineering,B000094,"Classical Mechanics: Concepts, Models, and Tools 94",Physics
+R000454,2026-05-07,2026-05-14,expired,,student,Civil Engineering,B000183,Analytical Chemistry: Principles and Applications 183,Chemistry
+R000455,2025-10-09,2025-10-12,expired,,student,Mathematics,B000219,Signal Processing: An Applied Introduction 219,Electrical Engineering
+R000456,2026-05-08,2026-05-17,cancelled,,student,Chemistry,B000032,Analytical Chemistry: Principles and Applications 32,Chemistry
+R000457,2026-03-20,2026-03-26,expired,,student,Civil Engineering,B000266,"Discrete Mathematics: Concepts, Models, and Tools 266",Mathematics
+R000458,2026-06-27,2026-07-15,waiting,5,faculty,Physics,B000282,Strategic Management: Methods for Researchers 282,Management
+R000459,2026-07-03,2026-07-14,waiting,7,public,,B000182,Behavioral Analysis: Methods for Researchers 182,Psychology
+R000460,2026-06-21,2026-07-09,ready_for_pickup,,staff,Mechanical Engineering,B000308,Urban Infrastructure: Methods for Researchers 308,Civil Engineering
+R000461,2025-09-19,2025-09-30,expired,,student,Mechanical Engineering,B000055,Statistical Physics: A Modern Approach 55,Physics
+R000462,2026-04-25,2026-04-30,cancelled,,student,Civil Engineering,B000147,Modern Fiction: Case Studies and Practice 147,Literature
+R000463,2025-02-06,2025-02-09,cancelled,,student,History,B000147,Modern Fiction: Case Studies and Practice 147,Literature
+R000464,2025-11-12,2025-11-22,cancelled,,student,Computer Engineering,B000293,Econometrics: Principles and Applications 293,Economics
+R000465,2026-06-16,2026-07-14,waiting,1,faculty,Mechanical Engineering,B000298,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+R000466,2026-06-22,2026-07-09,ready_for_pickup,,staff,Chemistry,B000041,Algorithms: A Modern Approach 41,Computer Science
+R000467,2024-10-20,2024-10-29,expired,,student,Computer Engineering,B000280,Signal Processing: Methods for Researchers 280,Electrical Engineering
+R000468,2025-08-04,2025-08-15,expired,,student,Management,B000055,Statistical Physics: A Modern Approach 55,Physics
+R000469,2026-06-24,2026-07-09,waiting,7,student,Mathematics,B000151,Construction Planning: A Modern Approach 151,Civil Engineering
+R000470,2026-06-23,2026-07-16,waiting,11,student,Industrial Engineering,B000115,Business Analytics: An Applied Introduction 115,Management
+R000471,2024-11-18,2024-11-26,expired,,student,Economics,B000116,Data Mining: An Applied Introduction 116,Computer Science
+R000472,2026-06-16,2026-07-10,ready_for_pickup,,student,Management,B000140,Analytical Chemistry: Principles and Applications 140,Chemistry
+R000473,2026-04-03,2026-04-06,cancelled,,faculty,Industrial Engineering,B000276,Operations Management: An Applied Introduction 276,Management
+R000474,2026-07-02,2026-07-12,waiting,2,student,Psychology,B000029,World History: An Applied Introduction 29,History
+R000475,2025-09-12,2025-09-18,expired,,staff,Literature,B000020,Historical Methods: Methods for Researchers 20,History
+R000476,2026-06-25,2026-07-10,waiting,7,student,Civil Engineering,B000119,Analytical Chemistry: Principles and Applications 119,Chemistry
+R000477,2026-07-03,2026-07-14,waiting,4,public,,B000286,Control Systems: A Modern Approach 286,Electrical Engineering
+R000478,2025-06-28,2025-07-03,expired,,faculty,Physics,B000066,Algorithms: An Applied Introduction 66,Computer Science
+R000479,2025-10-23,2025-11-02,expired,,faculty,Mechanical Engineering,B000178,Political Philosophy: Principles and Applications 178,Philosophy
+R000480,2026-07-05,2026-07-09,waiting,9,student,Economics,B000106,Strategic Management: An Applied Introduction 106,Management
+R000481,2025-06-11,2025-06-21,cancelled,,public,,B000271,Numerical Methods: An Applied Introduction 271,Mathematics
+R000482,2025-06-10,2025-06-16,expired,,student,Literature,B000237,Genetics: A Modern Approach 237,Biology
+R000483,2025-11-30,2025-12-03,expired,,public,,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000484,2025-01-06,2025-01-11,cancelled,,student,Psychology,B000155,Construction Planning: A Modern Approach 155,Civil Engineering
+R000485,2025-04-18,2025-04-26,cancelled,,student,Electrical Engineering,B000217,Econometrics: Case Studies and Practice 217,Economics
+R000486,2025-08-10,2025-08-17,cancelled,,student,Electrical Engineering,B000161,"Thermodynamics: Concepts, Models, and Tools 161",Mechanical Engineering
+R000487,2025-04-12,2025-04-15,expired,,student,Industrial Engineering,B000278,Literary Criticism: An Applied Introduction 278,Literature
+R000488,2026-06-17,2026-07-12,ready_for_pickup,,staff,Mathematics,B000197,Optics: Methods for Researchers 197,Physics
+R000489,2024-12-20,2024-12-31,cancelled,,student,Electrical Engineering,B000246,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+R000490,2025-10-01,2025-10-10,expired,,student,Chemistry,B000310,Business Analytics: Principles and Applications 310,Management
+R000491,2026-07-02,2026-07-09,ready_for_pickup,,staff,Economics,B000224,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+R000492,2026-07-03,2026-07-16,waiting,5,student,Management,B000021,Statistical Physics: An Applied Introduction 21,Physics
+R000493,2026-06-26,2026-07-12,waiting,11,staff,Industrial Engineering,B000312,Soil Mechanics: An Applied Introduction 312,Civil Engineering
+R000494,2025-02-16,2025-02-21,cancelled,,staff,Industrial Engineering,B000049,Algorithms: Methods for Researchers 49,Computer Science
+R000495,2026-06-24,2026-07-09,waiting,10,staff,Computer Engineering,B000174,"Data Mining: Concepts, Models, and Tools 174",Computer Science
+R000496,2026-06-22,2026-07-16,waiting,8,student,Physics,B000239,Optics: An Applied Introduction 239,Physics
+R000497,2026-07-07,2026-07-12,waiting,8,student,Mechanical Engineering,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000498,2026-06-22,2026-07-14,waiting,4,staff,Management,B000045,Soil Mechanics: Principles and Applications 45,Civil Engineering
+R000499,2025-10-17,2025-10-20,cancelled,,student,Electrical Engineering,B000298,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+R000500,2024-10-16,2024-10-25,expired,,student,Civil Engineering,B000070,"Philosophy of Science: Concepts, Models, and Tools 70",Philosophy
+R000501,2026-04-04,2026-04-16,expired,,student,Literature,B000309,Numerical Methods: Principles and Applications 309,Mathematics
+R000502,2026-04-01,2026-04-06,cancelled,,student,Literature,B000314,Data Mining: A Modern Approach 314,Computer Science
+R000503,2025-03-20,2025-03-23,expired,,student,History,B000240,Persian Poetry: Principles and Applications 240,Literature
+R000504,2026-07-01,2026-07-14,waiting,2,student,Psychology,B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics
+R000505,2024-12-30,2025-01-02,expired,,student,Computer Engineering,B000273,Development Economics: Methods for Researchers 273,Economics
+R000506,2024-12-03,2024-12-14,cancelled,,staff,Mathematics,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000507,2025-02-18,2025-02-25,cancelled,,faculty,Chemistry,B000219,Signal Processing: An Applied Introduction 219,Electrical Engineering
+R000508,2025-07-26,2025-08-05,expired,,student,Economics,B000164,Operations Management: Case Studies and Practice 164,Management
+R000509,2026-01-08,2026-01-13,expired,,student,Management,B000219,Signal Processing: An Applied Introduction 219,Electrical Engineering
+R000510,2026-06-19,2026-07-11,ready_for_pickup,,student,Electrical Engineering,B000136,Development Economics: Principles and Applications 136,Economics
+R000511,2025-02-06,2025-02-12,cancelled,,student,Industrial Engineering,B000307,"Signal Processing: Concepts, Models, and Tools 307",Electrical Engineering
+R000512,2025-08-05,2025-08-15,cancelled,,student,Chemistry,B000239,Optics: An Applied Introduction 239,Physics
+R000513,2024-10-18,2024-10-21,cancelled,,faculty,Mathematics,B000318,Business Analytics: Case Studies and Practice 318,Management
+R000514,2025-11-15,2025-11-27,cancelled,,student,History,B000302,"Research Methods: Concepts, Models, and Tools 302",Psychology
+R000515,2025-10-04,2025-10-11,expired,,student,Literature,B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+R000516,2026-02-22,2026-02-26,expired,,faculty,Mathematics,B000069,Urban Infrastructure: Principles and Applications 69,Civil Engineering
+R000517,2026-06-30,2026-07-10,waiting,18,staff,Chemistry,B000035,Quantum Mechanics: Case Studies and Practice 35,Physics
+R000518,2026-04-26,2026-05-01,expired,,student,Economics,B000206,"Manufacturing Systems: Concepts, Models, and Tools 206",Mechanical Engineering
+R000519,2026-07-04,2026-07-09,waiting,17,student,Electrical Engineering,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000520,2026-06-21,2026-07-14,waiting,9,student,Management,B000036,Structural Analysis: An Applied Introduction 36,Civil Engineering
+R000521,2025-03-05,2025-03-16,expired,,student,History,B000205,Soil Mechanics: Case Studies and Practice 205,Civil Engineering
+R000522,2026-05-16,2026-05-28,cancelled,,public,,B000117,Microeconomics: Case Studies and Practice 117,Economics
+R000523,2026-07-06,2026-07-13,waiting,11,staff,Mathematics,B000027,Data Mining: Case Studies and Practice 27,Computer Science
+R000524,2024-11-07,2024-11-11,expired,,student,Mechanical Engineering,B000105,Numerical Methods: Case Studies and Practice 105,Mathematics
+R000525,2026-06-16,2026-07-12,waiting,1,student,Civil Engineering,B000065,Political Philosophy: Principles and Applications 65,Philosophy
+R000526,2025-05-17,2025-05-20,expired,,staff,Mechanical Engineering,B000243,Development Economics: A Modern Approach 243,Economics
+R000527,2026-06-30,2026-07-14,waiting,2,faculty,Electrical Engineering,B000023,Operations Management: Case Studies and Practice 23,Management
+R000528,2026-07-06,2026-07-15,waiting,15,student,Industrial Engineering,B000172,"Quantum Mechanics: Concepts, Models, and Tools 172",Physics
+R000529,2025-10-25,2025-10-30,cancelled,,staff,Mechanical Engineering,B000309,Numerical Methods: Principles and Applications 309,Mathematics
+R000530,2026-06-17,2026-07-16,waiting,6,student,History,B000121,Persian Poetry: Principles and Applications 121,Literature
+R000531,2025-03-24,2025-03-30,cancelled,,student,Literature,B000017,Strategic Management: Principles and Applications 17,Management
+R000532,2024-10-09,2024-10-18,cancelled,,student,Psychology,B000192,Cell Biology: Case Studies and Practice 192,Biology
+R000533,2025-04-24,2025-04-30,cancelled,,student,Electrical Engineering,B000068,Microeconomics: An Applied Introduction 68,Economics
+R000534,2025-10-27,2025-11-01,cancelled,,student,Mathematics,B000115,Business Analytics: An Applied Introduction 115,Management
+R000535,2026-04-27,2026-05-02,expired,,student,Management,B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+R000536,2026-06-20,2026-07-11,ready_for_pickup,,student,Economics,B000210,Logic: Methods for Researchers 210,Philosophy
+R000537,2026-07-07,2026-07-15,ready_for_pickup,,student,Literature,B000185,Urban Infrastructure: Principles and Applications 185,Civil Engineering
+R000538,2024-10-14,2024-10-17,expired,,student,Chemistry,B000134,Analytical Chemistry: An Applied Introduction 134,Chemistry
+R000539,2026-07-04,2026-07-13,waiting,2,faculty,Electrical Engineering,B000155,Construction Planning: A Modern Approach 155,Civil Engineering
+R000540,2025-09-10,2025-09-16,cancelled,,public,,B000043,Linear Algebra: A Modern Approach 43,Mathematics
+R000541,2026-06-30,2026-07-15,waiting,8,student,Economics,B000246,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+R000542,2025-11-13,2025-11-19,expired,,faculty,Mathematics,B000112,Literary Criticism: Methods for Researchers 112,Literature
+R000543,2026-06-20,2026-07-09,ready_for_pickup,,student,Electrical Engineering,B000106,Strategic Management: An Applied Introduction 106,Management
+R000544,2026-07-03,2026-07-09,waiting,17,staff,Industrial Engineering,B000076,Project Management: Methods for Researchers 76,Management
+R000545,2026-06-21,2026-07-13,waiting,18,student,Computer Engineering,B000262,"Digital Circuits: Concepts, Models, and Tools 262",Electrical Engineering
+R000546,2026-06-16,2026-07-09,ready_for_pickup,,staff,Mechanical Engineering,B000297,Historical Methods: Case Studies and Practice 297,History
+R000547,2026-07-06,2026-07-16,ready_for_pickup,,student,Industrial Engineering,B000316,Probability Theory: Principles and Applications 316,Mathematics
+R000548,2026-07-03,2026-07-13,waiting,9,faculty,Mathematics,B000082,Logic: An Applied Introduction 82,Philosophy
+R000549,2026-05-04,2026-05-15,cancelled,,public,,B000263,Machine Learning: An Applied Introduction 263,Computer Science
+R000550,2026-06-19,2026-07-10,waiting,7,student,Mechanical Engineering,B000271,Numerical Methods: An Applied Introduction 271,Mathematics
+R000551,2025-01-01,2025-01-06,cancelled,,student,Psychology,B000006,Linear Algebra: Case Studies and Practice 6,Mathematics
+R000552,2026-04-11,2026-04-19,cancelled,,student,Management,B000020,Historical Methods: Methods for Researchers 20,History
+R000553,2025-07-18,2025-07-30,cancelled,,student,Computer Engineering,B000171,Discrete Mathematics: A Modern Approach 171,Mathematics
+R000554,2025-01-11,2025-01-15,cancelled,,student,Management,B000163,Classical Mechanics: Case Studies and Practice 163,Physics
+R000555,2026-07-07,2026-07-13,waiting,2,student,History,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000556,2026-07-04,2026-07-11,waiting,4,student,Industrial Engineering,B000095,Construction Planning: Principles and Applications 95,Civil Engineering
+R000557,2025-04-27,2025-05-02,expired,,student,Physics,B000236,Project Management: A Modern Approach 236,Management
+R000558,2026-07-02,2026-07-14,waiting,18,student,Industrial Engineering,B000265,"Database Systems: Concepts, Models, and Tools 265",Computer Science
+R000559,2026-06-24,2026-07-12,waiting,9,student,Mathematics,B000175,Quantum Mechanics: Case Studies and Practice 175,Physics
+R000560,2026-04-16,2026-04-25,cancelled,,student,Economics,B000111,Logic: An Applied Introduction 111,Philosophy
+R000561,2025-05-20,2025-05-30,expired,,student,Civil Engineering,B000214,Urban Infrastructure: Methods for Researchers 214,Civil Engineering
+R000562,2026-03-04,2026-03-08,expired,,student,Literature,B000304,Cognitive Psychology: Case Studies and Practice 304,Psychology
+R000563,2026-06-09,2026-06-12,expired,,student,Economics,B000184,Logic: Case Studies and Practice 184,Philosophy
+R000564,2025-03-25,2025-03-31,cancelled,,student,Computer Engineering,B000178,Political Philosophy: Principles and Applications 178,Philosophy
+R000565,2025-03-27,2025-04-02,expired,,student,Industrial Engineering,B000207,"Project Management: Concepts, Models, and Tools 207",Management
+R000566,2025-01-14,2025-01-24,cancelled,,student,Economics,B000239,Optics: An Applied Introduction 239,Physics
+R000567,2025-01-20,2025-01-28,expired,,student,Literature,B000291,Logic: An Applied Introduction 291,Philosophy
+R000568,2026-06-23,2026-07-12,waiting,4,student,Electrical Engineering,B000149,Database Systems: An Applied Introduction 149,Computer Science
+R000569,2026-06-26,2026-07-16,waiting,5,faculty,Computer Engineering,B000221,Business Analytics: Methods for Researchers 221,Management
+R000570,2026-01-18,2026-01-29,cancelled,,student,Industrial Engineering,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000571,2026-04-04,2026-04-13,cancelled,,student,Civil Engineering,B000106,Strategic Management: An Applied Introduction 106,Management
+R000572,2026-06-17,2026-07-16,waiting,15,student,Electrical Engineering,B000166,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering
+R000573,2025-02-20,2025-02-26,cancelled,,student,Management,B000168,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+R000574,2026-06-16,2026-07-15,waiting,5,student,Psychology,B000300,Project Management: Principles and Applications 300,Management
+R000575,2025-05-31,2025-06-03,cancelled,,student,Computer Engineering,B000234,Control Systems: An Applied Introduction 234,Electrical Engineering
+R000576,2026-06-23,2026-07-13,ready_for_pickup,,student,Electrical Engineering,B000047,Behavioral Analysis: A Modern Approach 47,Psychology
+R000577,2025-01-18,2025-01-21,expired,,faculty,Psychology,B000210,Logic: Methods for Researchers 210,Philosophy
+R000578,2026-06-19,2026-07-09,waiting,16,student,Mathematics,B000273,Development Economics: Methods for Researchers 273,Economics
+R000579,2026-07-05,2026-07-16,waiting,12,student,Management,B000149,Database Systems: An Applied Introduction 149,Computer Science
+R000580,2026-01-30,2026-02-10,cancelled,,student,Computer Engineering,B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+R000581,2025-01-18,2025-01-29,cancelled,,student,Literature,B000059,"World History: Concepts, Models, and Tools 59",History
+R000582,2026-06-27,2026-07-16,ready_for_pickup,,student,Mathematics,B000242,Probability Theory: A Modern Approach 242,Mathematics
+R000583,2025-09-04,2025-09-11,expired,,student,Industrial Engineering,B000200,Modern Fiction: An Applied Introduction 200,Literature
+R000584,2025-12-12,2025-12-15,expired,,student,Electrical Engineering,B000009,Signal Processing: Methods for Researchers 9,Electrical Engineering
+R000585,2026-07-07,2026-07-09,waiting,14,public,,B000102,Cloud Computing: Principles and Applications 102,Computer Science
+R000586,2026-03-09,2026-03-15,cancelled,,student,Mechanical Engineering,B000044,Construction Planning: Methods for Researchers 44,Civil Engineering
+R000587,2026-07-01,2026-07-16,ready_for_pickup,,student,Physics,B000169,Urban History: Principles and Applications 169,History
+R000588,2026-07-06,2026-07-10,waiting,1,staff,Computer Engineering,B000093,Database Systems: A Modern Approach 93,Computer Science
+R000589,2026-07-04,2026-07-09,ready_for_pickup,,staff,Literature,B000270,Project Management: Principles and Applications 270,Management
+R000590,2026-06-22,2026-07-12,ready_for_pickup,,student,Literature,B000248,Database Systems: An Applied Introduction 248,Computer Science
+R000591,2026-06-18,2026-07-15,ready_for_pickup,,faculty,Industrial Engineering,B000129,Learning Theory: A Modern Approach 129,Psychology
+R000592,2025-05-24,2025-06-05,expired,,student,Management,B000276,Operations Management: An Applied Introduction 276,Management
+R000593,2026-02-15,2026-02-25,expired,,student,Electrical Engineering,B000031,Cloud Computing: Principles and Applications 31,Computer Science
+R000594,2025-04-05,2025-04-17,expired,,student,Electrical Engineering,B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics
+R000595,2026-06-22,2026-07-10,waiting,9,student,Management,B000100,Organic Chemistry: An Applied Introduction 100,Chemistry
+R000596,2026-06-27,2026-07-16,waiting,18,student,Electrical Engineering,B000286,Control Systems: A Modern Approach 286,Electrical Engineering
+R000597,2026-06-22,2026-07-11,ready_for_pickup,,student,Economics,B000190,Classical Mechanics: Principles and Applications 190,Physics
+R000598,2026-07-05,2026-07-13,waiting,12,staff,Electrical Engineering,B000001,Microeconomics: An Applied Introduction 1,Economics
+R000599,2025-06-24,2025-07-02,cancelled,,student,History,B000084,Genetics: Principles and Applications 84,Biology
+R000600,2026-07-04,2026-07-14,waiting,15,student,Physics,B000193,Operations Management: Principles and Applications 193,Management
+R000601,2026-04-04,2026-04-12,cancelled,,student,Civil Engineering,B000275,Manufacturing Systems: Principles and Applications 275,Mechanical Engineering
+R000602,2025-02-21,2025-03-04,cancelled,,student,Civil Engineering,B000194,Classical Mechanics: Methods for Researchers 194,Physics
+R000603,2025-05-05,2025-05-09,cancelled,,faculty,Management,B000280,Signal Processing: Methods for Researchers 280,Electrical Engineering
+R000604,2026-02-05,2026-02-13,cancelled,,student,Civil Engineering,B000319,Cell Biology: An Applied Introduction 319,Biology
+R000605,2026-06-03,2026-06-14,cancelled,,student,Industrial Engineering,B000310,Business Analytics: Principles and Applications 310,Management
+R000606,2026-07-03,2026-07-16,ready_for_pickup,,student,Economics,B000058,Linear Algebra: A Modern Approach 58,Mathematics
+R000607,2026-06-26,2026-07-16,ready_for_pickup,,faculty,History,B000261,Algorithms: Methods for Researchers 261,Computer Science
+R000608,2026-05-01,2026-05-10,expired,,student,Chemistry,B000193,Operations Management: Principles and Applications 193,Management
+R000609,2026-06-18,2026-07-11,waiting,3,student,Mathematics,B000146,Quantum Mechanics: An Applied Introduction 146,Physics
+R000610,2026-06-19,2026-07-11,ready_for_pickup,,student,History,B000320,Power Networks: Methods for Researchers 320,Electrical Engineering
+R000611,2025-03-23,2025-03-29,expired,,student,Literature,B000282,Strategic Management: Methods for Researchers 282,Management
+R000612,2025-07-13,2025-07-17,expired,,faculty,Computer Engineering,B000010,Strategic Management: Case Studies and Practice 10,Management
+R000613,2026-03-17,2026-03-23,cancelled,,student,Chemistry,B000208,Data Mining: Methods for Researchers 208,Computer Science
+R000614,2026-06-21,2026-07-15,waiting,11,student,History,B000278,Literary Criticism: An Applied Introduction 278,Literature
+R000615,2026-07-01,2026-07-12,ready_for_pickup,,faculty,Mathematics,B000073,Development Economics: A Modern Approach 73,Economics
+R000616,2026-04-23,2026-05-01,cancelled,,student,Management,B000166,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering
+R000617,2025-06-27,2025-07-02,cancelled,,faculty,Industrial Engineering,B000232,Logic: An Applied Introduction 232,Philosophy
+R000618,2026-01-24,2026-02-05,cancelled,,student,Electrical Engineering,B000305,Linear Algebra: An Applied Introduction 305,Mathematics
+R000619,2025-12-24,2026-01-02,expired,,faculty,Chemistry,B000038,Development Economics: Methods for Researchers 38,Economics
+R000620,2024-10-28,2024-11-02,cancelled,,faculty,Mechanical Engineering,B000115,Business Analytics: An Applied Introduction 115,Management
+R000621,2026-02-02,2026-02-14,expired,,student,Electrical Engineering,B000178,Political Philosophy: Principles and Applications 178,Philosophy
+R000622,2026-06-24,2026-07-09,ready_for_pickup,,student,Psychology,B000038,Development Economics: Methods for Researchers 38,Economics
+R000623,2026-03-23,2026-04-02,cancelled,,faculty,Mathematics,B000108,Robotics: An Applied Introduction 108,Mechanical Engineering
+R000624,2026-06-17,2026-07-15,waiting,6,staff,Mechanical Engineering,B000314,Data Mining: A Modern Approach 314,Computer Science
+R000625,2026-06-21,2026-07-16,waiting,10,faculty,Mathematics,B000173,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+R000626,2026-06-26,2026-07-15,waiting,16,student,Electrical Engineering,B000046,Algorithms: Case Studies and Practice 46,Computer Science
+R000627,2024-12-13,2024-12-23,expired,,faculty,Mathematics,B000020,Historical Methods: Methods for Researchers 20,History
+R000628,2026-01-13,2026-01-25,cancelled,,faculty,Civil Engineering,B000098,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics
+R000629,2025-06-03,2025-06-12,cancelled,,faculty,Mathematics,B000241,Data Mining: A Modern Approach 241,Computer Science
+R000630,2026-06-25,2026-07-14,ready_for_pickup,,public,,B000117,Microeconomics: Case Studies and Practice 117,Economics
+R000631,2026-04-11,2026-04-16,cancelled,,staff,Physics,B000026,Modern Fiction: A Modern Approach 26,Literature
+R000632,2024-10-20,2024-11-01,cancelled,,student,History,B000311,Cell Biology: Case Studies and Practice 311,Biology
+R000633,2026-06-23,2026-07-10,waiting,18,student,Psychology,B000198,"Microeconomics: Concepts, Models, and Tools 198",Economics
+R000634,2025-01-19,2025-01-30,cancelled,,student,Literature,B000002,Econometrics: Principles and Applications 2,Economics
+R000635,2026-07-03,2026-07-11,waiting,8,faculty,Chemistry,B000312,Soil Mechanics: An Applied Introduction 312,Civil Engineering
+R000636,2025-09-28,2025-10-05,expired,,student,Psychology,B000127,Manufacturing Systems: Principles and Applications 127,Mechanical Engineering
+R000637,2026-06-20,2026-07-16,ready_for_pickup,,student,Literature,B000056,Logic: An Applied Introduction 56,Philosophy
+R000638,2025-06-12,2025-06-20,cancelled,,student,Management,B000182,Behavioral Analysis: Methods for Researchers 182,Psychology
+R000639,2025-06-07,2025-06-18,cancelled,,staff,Civil Engineering,B000038,Development Economics: Methods for Researchers 38,Economics
+R000640,2026-04-13,2026-04-24,expired,,faculty,Mathematics,B000314,Data Mining: A Modern Approach 314,Computer Science
+R000641,2026-05-21,2026-05-28,expired,,student,Physics,B000215,Signal Processing: Case Studies and Practice 215,Electrical Engineering
+R000642,2025-07-20,2025-07-29,cancelled,,faculty,Electrical Engineering,B000177,Quantum Mechanics: Principles and Applications 177,Physics
+R000643,2026-07-06,2026-07-16,ready_for_pickup,,student,Industrial Engineering,B000106,Strategic Management: An Applied Introduction 106,Management
+R000644,2026-07-01,2026-07-16,waiting,12,student,Electrical Engineering,B000294,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+R000645,2026-06-27,2026-07-14,ready_for_pickup,,student,Chemistry,B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+R000646,2026-06-29,2026-07-15,ready_for_pickup,,student,Psychology,B000162,Microeconomics: Case Studies and Practice 162,Economics
+R000647,2024-12-04,2024-12-09,cancelled,,student,Psychology,B000242,Probability Theory: A Modern Approach 242,Mathematics
+R000648,2025-12-30,2026-01-07,cancelled,,faculty,Psychology,B000219,Signal Processing: An Applied Introduction 219,Electrical Engineering
+R000649,2026-06-29,2026-07-12,waiting,13,staff,Computer Engineering,B000024,"Probability Theory: Concepts, Models, and Tools 24",Mathematics
+R000650,2026-06-17,2026-07-09,waiting,6,student,Psychology,B000210,Logic: Methods for Researchers 210,Philosophy

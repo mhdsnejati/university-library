@@ -1,0 +1,11 @@
+metric,value
+total_loans,2200
+active_loans,24
+overdue_loans,15
+overdue_rate_percent,38.46
+available_copies,889
+availability_rate_percent,86.82
+total_reservations,650
+waiting_reservations,105
+fine_balance,2349.69
+paid_fines,3224.45

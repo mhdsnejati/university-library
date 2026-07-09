@@ -1,0 +1,321 @@
+book_id,title,category_name,loan_count,reservation_count,available_copies,total_copies,purchase_need_score
+B000282,Strategic Management: Methods for Researchers 282,Management,19,8,5,5,20.55
+B000106,Strategic Management: An Applied Introduction 106,Management,17,8,5,5,19.45
+B000023,Operations Management: Case Studies and Practice 23,Management,24,5,4,6,18.2
+B000006,Linear Algebra: Case Studies and Practice 6,Mathematics,17,8,6,6,17.95
+B000314,Data Mining: A Modern Approach 314,Computer Science,20,5,3,5,17.5
+B000001,Microeconomics: An Applied Introduction 1,Economics,13,6,2,3,17.35
+B000002,Econometrics: Principles and Applications 2,Economics,11,7,3,4,16.95
+B000156,Cloud Computing: Case Studies and Practice 156,Computer Science,12,7,4,4,16.0
+B000162,Microeconomics: Case Studies and Practice 162,Economics,16,6,4,5,16.0
+B000261,Algorithms: Methods for Researchers 261,Computer Science,16,5,3,3,15.3
+B000251,Numerical Methods: An Applied Introduction 251,Mathematics,20,5,5,6,14.5
+B000263,Machine Learning: An Applied Introduction 263,Computer Science,14,5,3,3,14.2
+B000038,Development Economics: Methods for Researchers 38,Economics,20,4,4,5,13.8
+B000095,Construction Planning: Principles and Applications 95,Civil Engineering,17,4,3,5,13.65
+B000233,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry,12,5,3,4,13.1
+B000298,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics,16,4,3,5,13.1
+B000305,Linear Algebra: An Applied Introduction 305,Mathematics,15,6,6,7,12.45
+B000020,Historical Methods: Methods for Researchers 20,History,5,5,1,1,12.25
+B000178,Political Philosophy: Principles and Applications 178,Philosophy,5,5,1,1,12.25
+B000119,Analytical Chemistry: Principles and Applications 119,Chemistry,17,4,4,4,12.15
+B000077,Public Policy: Principles and Applications 77,Economics,10,5,3,3,12.0
+B000210,Logic: Methods for Researchers 210,Philosophy,6,6,3,4,12.0
+B000055,Statistical Physics: A Modern Approach 55,Physics,15,5,5,5,11.75
+B000139,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering,12,5,4,4,11.6
+B000168,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science,18,4,5,7,11.2
+B000115,Business Analytics: An Applied Introduction 115,Management,11,7,7,7,10.95
+B000313,Data Mining: Principles and Applications 313,Computer Science,8,5,3,3,10.9
+B000234,Control Systems: An Applied Introduction 234,Electrical Engineering,9,4,2,3,10.75
+B000242,Probability Theory: A Modern Approach 242,Mathematics,17,4,5,5,10.65
+B000248,Database Systems: An Applied Introduction 248,Computer Science,13,5,5,5,10.65
+B000182,Behavioral Analysis: Methods for Researchers 182,Psychology,10,5,4,4,10.5
+B000191,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics,10,5,4,5,10.5
+B000286,Control Systems: A Modern Approach 286,Electrical Engineering,14,4,4,4,10.5
+B000061,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering,11,4,3,4,10.35
+B000149,Database Systems: An Applied Introduction 149,Computer Science,11,4,3,4,10.35
+B000317,Modern Iran: Principles and Applications 317,History,16,4,5,5,10.1
+B000318,Business Analytics: Case Studies and Practice 318,Management,16,4,5,6,10.1
+B000212,"Linear Algebra: Concepts, Models, and Tools 212",Mathematics,9,5,4,4,9.95
+B000309,Numerical Methods: Principles and Applications 309,Mathematics,13,4,4,5,9.95
+B000300,Project Management: Principles and Applications 300,Management,10,4,3,4,9.8
+B000105,Numerical Methods: Case Studies and Practice 105,Mathematics,12,4,4,5,9.4
+B000219,Signal Processing: An Applied Introduction 219,Electrical Engineering,12,4,4,5,9.4
+B000033,Numerical Methods: Principles and Applications 33,Mathematics,9,4,3,3,9.25
+B000239,Optics: An Applied Introduction 239,Physics,5,5,3,3,9.25
+B000031,Cloud Computing: Principles and Applications 31,Computer Science,10,3,2,3,9.1
+B000041,Algorithms: A Modern Approach 41,Computer Science,6,4,2,3,9.1
+B000200,Modern Fiction: An Applied Introduction 200,Literature,6,4,2,2,9.1
+B000320,Power Networks: Methods for Researchers 320,Electrical Engineering,10,3,2,4,9.1
+B000138,Probability Theory: Case Studies and Practice 138,Mathematics,12,3,3,4,8.7
+B000093,Database Systems: A Modern Approach 93,Computer Science,9,3,2,2,8.55
+B000165,Strategic Management: Case Studies and Practice 165,Management,5,4,2,4,8.55
+B000203,World Literature: Methods for Researchers 203,Literature,6,3,1,1,8.4
+B000271,Numerical Methods: An Applied Introduction 271,Mathematics,6,3,1,3,8.4
+B000246,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering,10,4,4,4,8.3
+B000264,Modern Fiction: Case Studies and Practice 264,Literature,6,5,4,4,8.3
+B000250,Learning Theory: Methods for Researchers 250,Psychology,3,3,0,1,8.25
+B000241,Data Mining: A Modern Approach 241,Computer Science,14,5,7,7,8.2
+B000244,Ecology: A Modern Approach 244,Biology,19,1,3,5,8.15
+B000247,Research Methods: Case Studies and Practice 247,Psychology,15,4,6,6,8.05
+B000173,Thermodynamics: Methods for Researchers 173,Mechanical Engineering,12,4,5,5,7.9
+B000236,Project Management: A Modern Approach 236,Management,12,4,5,5,7.9
+B000050,Fluid Mechanics: Methods for Researchers 50,Mechanical Engineering,5,3,1,1,7.85
+B000214,Urban Infrastructure: Methods for Researchers 214,Civil Engineering,5,3,1,3,7.85
+B000312,Soil Mechanics: An Applied Introduction 312,Civil Engineering,9,2,1,2,7.85
+B000070,"Philosophy of Science: Concepts, Models, and Tools 70",Philosophy,14,2,3,3,7.6
+B000126,Signal Processing: Methods for Researchers 126,Electrical Engineering,6,4,3,3,7.6
+B000202,Public Policy: An Applied Introduction 202,Economics,10,3,3,3,7.6
+B000125,Optics: An Applied Introduction 125,Physics,7,3,2,3,7.45
+B000079,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering,15,3,5,6,7.35
+B000294,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics,15,3,5,5,7.35
+B000021,Statistical Physics: An Applied Introduction 21,Physics,8,2,1,3,7.3
+B000117,Microeconomics: Case Studies and Practice 117,Economics,4,3,1,2,7.3
+B000123,Analytical Chemistry: A Modern Approach 123,Chemistry,8,2,1,3,7.3
+B000224,"Classical Mechanics: Concepts, Models, and Tools 224",Physics,8,4,4,4,7.2
+B000155,Construction Planning: A Modern Approach 155,Civil Engineering,1,3,0,1,7.15
+B000147,Modern Fiction: Case Studies and Practice 147,Literature,9,3,3,4,7.05
+B000198,"Microeconomics: Concepts, Models, and Tools 198",Economics,9,3,3,3,7.05
+B000130,Research Methods: A Modern Approach 130,Psychology,6,3,2,3,6.9
+B000197,Optics: Methods for Researchers 197,Physics,6,3,2,2,6.9
+B000278,Literary Criticism: An Applied Introduction 278,Literature,6,3,2,2,6.9
+B000287,Database Systems: Methods for Researchers 287,Computer Science,10,2,2,2,6.9
+B000230,Business Analytics: Methods for Researchers 230,Management,7,2,1,3,6.75
+B000177,Quantum Mechanics: Principles and Applications 177,Physics,7,4,4,4,6.65
+B000273,Development Economics: Methods for Researchers 273,Economics,11,3,4,5,6.65
+B000310,Business Analytics: Principles and Applications 310,Management,15,2,4,5,6.65
+B000102,Cloud Computing: Principles and Applications 102,Computer Science,8,3,3,6,6.5
+B000110,Signal Processing: Methods for Researchers 110,Electrical Engineering,8,3,3,3,6.5
+B000132,Optics: A Modern Approach 132,Physics,12,2,3,4,6.5
+B000196,Behavioral Analysis: Principles and Applications 196,Psychology,8,3,3,3,6.5
+B000046,Algorithms: Case Studies and Practice 46,Computer Science,5,3,2,3,6.35
+B000108,Robotics: An Applied Introduction 108,Mechanical Engineering,9,2,2,3,6.35
+B000227,Strategic Management: A Modern Approach 227,Management,6,2,1,1,6.2
+B000142,"Philosophy of Science: Concepts, Models, and Tools 142",Philosophy,10,3,4,5,6.1
+B000171,Discrete Mathematics: A Modern Approach 171,Mathematics,10,3,4,4,6.1
+B000194,Classical Mechanics: Methods for Researchers 194,Physics,7,3,3,3,5.95
+B000005,Laboratory Methods: Case Studies and Practice 5,Chemistry,4,3,2,2,5.8
+B000010,Strategic Management: Case Studies and Practice 10,Management,4,3,2,2,5.8
+B000099,Linear Algebra: Case Studies and Practice 99,Mathematics,8,2,2,3,5.8
+B000192,Cell Biology: Case Studies and Practice 192,Biology,4,3,2,2,5.8
+B000265,"Database Systems: Concepts, Models, and Tools 265",Computer Science,1,3,1,1,5.65
+B000296,Robotics: Methods for Researchers 296,Mechanical Engineering,1,3,1,1,5.65
+B000076,Project Management: Methods for Researchers 76,Management,9,3,4,4,5.55
+B000260,Digital Circuits: Methods for Researchers 260,Electrical Engineering,9,3,4,4,5.55
+B000268,"Public Policy: Concepts, Models, and Tools 268",Economics,9,3,4,5,5.55
+B000074,Strategic Management: Methods for Researchers 74,Management,6,3,3,3,5.4
+B000027,Data Mining: Case Studies and Practice 27,Computer Science,14,3,6,7,5.3
+B000193,Operations Management: Principles and Applications 193,Management,14,3,6,6,5.3
+B000036,Structural Analysis: An Applied Introduction 36,Civil Engineering,7,2,2,3,5.25
+B000098,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics,7,2,2,3,5.25
+B000113,Research Methods: An Applied Introduction 113,Psychology,7,2,2,2,5.25
+B000272,Political Philosophy: Principles and Applications 272,Philosophy,7,2,2,2,5.25
+B000091,Business Analytics: A Modern Approach 91,Management,4,2,1,3,5.1
+B000128,Cognitive Psychology: Case Studies and Practice 128,Psychology,8,3,4,5,5.0
+B000136,Development Economics: Principles and Applications 136,Economics,16,1,4,5,5.0
+B000215,Signal Processing: Case Studies and Practice 215,Electrical Engineering,8,3,4,4,5.0
+B000240,Persian Poetry: Principles and Applications 240,Literature,8,3,4,4,5.0
+B000067,Signal Processing: Methods for Researchers 67,Electrical Engineering,5,3,3,3,4.85
+B000208,Data Mining: Methods for Researchers 208,Computer Science,9,2,3,4,4.85
+B000014,Construction Planning: Case Studies and Practice 14,Civil Engineering,6,2,2,3,4.7
+B000024,"Probability Theory: Concepts, Models, and Tools 24",Mathematics,10,1,2,3,4.7
+B000045,Soil Mechanics: Principles and Applications 45,Civil Engineering,10,1,2,2,4.7
+B000111,Logic: An Applied Introduction 111,Philosophy,6,2,2,2,4.7
+B000258,Microeconomics: A Modern Approach 258,Economics,10,1,2,3,4.7
+B000280,Signal Processing: Methods for Researchers 280,Electrical Engineering,14,2,5,5,4.6
+B000127,Manufacturing Systems: Principles and Applications 127,Mechanical Engineering,3,2,1,1,4.55
+B000129,Learning Theory: A Modern Approach 129,Psychology,7,1,1,3,4.55
+B000237,Genetics: A Modern Approach 237,Biology,3,2,1,3,4.55
+B000289,Classical Mechanics: An Applied Introduction 289,Physics,3,2,1,1,4.55
+B000293,Econometrics: Principles and Applications 293,Economics,11,2,4,4,4.45
+B000009,Signal Processing: Methods for Researchers 9,Electrical Engineering,8,2,3,3,4.3
+B000065,Political Philosophy: Principles and Applications 65,Philosophy,8,2,3,3,4.3
+B000080,Laboratory Methods: A Modern Approach 80,Chemistry,8,2,3,3,4.3
+B000120,Power Networks: Case Studies and Practice 120,Electrical Engineering,4,3,3,4,4.3
+B000228,Analytical Chemistry: Case Studies and Practice 228,Chemistry,12,1,3,3,4.3
+B000283,Molecular Biology: Principles and Applications 283,Biology,8,2,3,3,4.3
+B000295,Discrete Mathematics: An Applied Introduction 295,Mathematics,8,2,3,4,4.3
+B000135,Ethics: A Modern Approach 135,Philosophy,5,2,2,2,4.15
+B000166,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering,5,2,2,3,4.15
+B000188,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering,9,1,2,3,4.15
+B000017,Strategic Management: Principles and Applications 17,Management,13,2,5,6,4.05
+B000112,Literary Criticism: Methods for Researchers 112,Literature,2,2,1,1,4.0
+B000146,Quantum Mechanics: An Applied Introduction 146,Physics,2,2,1,1,4.0
+B000205,Soil Mechanics: Case Studies and Practice 205,Civil Engineering,6,1,1,2,4.0
+B000015,Numerical Methods: An Applied Introduction 15,Mathematics,10,2,4,5,3.9
+B000189,Fluid Mechanics: Principles and Applications 189,Mechanical Engineering,6,3,4,4,3.9
+B000211,Probability Theory: A Modern Approach 211,Mathematics,6,3,4,4,3.9
+B000306,"Literary Criticism: Concepts, Models, and Tools 306",Literature,10,2,4,4,3.9
+B000085,Development Economics: Principles and Applications 85,Economics,7,2,3,3,3.75
+B000100,Organic Chemistry: An Applied Introduction 100,Chemistry,7,2,3,3,3.75
+B000131,Cloud Computing: A Modern Approach 131,Computer Science,7,2,3,4,3.75
+B000169,Urban History: Principles and Applications 169,History,7,2,3,3,3.75
+B000035,Quantum Mechanics: Case Studies and Practice 35,Physics,4,2,2,2,3.6
+B000056,Logic: An Applied Introduction 56,Philosophy,4,2,2,2,3.6
+B000154,"Philosophy of Science: Concepts, Models, and Tools 154",Philosophy,8,1,2,3,3.6
+B000184,Logic: Case Studies and Practice 184,Philosophy,4,2,2,2,3.6
+B000269,Fluid Mechanics: Methods for Researchers 269,Mechanical Engineering,4,2,2,2,3.6
+B000281,Optics: An Applied Introduction 281,Physics,4,2,2,2,3.6
+B000319,Cell Biology: An Applied Introduction 319,Biology,4,2,2,2,3.6
+B000088,"Modern Iran: Concepts, Models, and Tools 88",History,5,1,1,2,3.45
+B000121,Persian Poetry: Principles and Applications 121,Literature,1,2,1,1,3.45
+B000134,Analytical Chemistry: An Applied Introduction 134,Chemistry,1,2,1,1,3.45
+B000161,"Thermodynamics: Concepts, Models, and Tools 161",Mechanical Engineering,1,2,1,1,3.45
+B000167,Development Economics: Case Studies and Practice 167,Economics,1,2,1,1,3.45
+B000012,Microeconomics: A Modern Approach 12,Economics,9,2,4,5,3.35
+B000060,Digital Circuits: A Modern Approach 60,Electrical Engineering,9,2,4,4,3.35
+B000255,Ecology: A Modern Approach 255,Biology,2,1,0,1,3.3
+B000073,Development Economics: A Modern Approach 73,Economics,10,1,3,5,3.2
+B000164,Operations Management: Case Studies and Practice 164,Management,6,2,3,4,3.2
+B000221,Business Analytics: Methods for Researchers 221,Management,10,1,3,4,3.2
+B000084,Genetics: Principles and Applications 84,Biology,7,1,2,3,3.05
+B000087,Power Networks: Methods for Researchers 87,Electrical Engineering,3,2,2,2,3.05
+B000279,"Statistical Physics: Concepts, Models, and Tools 279",Physics,7,3,5,5,2.95
+B000039,Cloud Computing: Methods for Researchers 39,Computer Science,4,1,1,3,2.9
+B000044,Construction Planning: Methods for Researchers 44,Civil Engineering,4,1,1,4,2.9
+B000029,World History: An Applied Introduction 29,History,8,2,4,4,2.8
+B000032,Analytical Chemistry: Principles and Applications 32,Chemistry,5,2,3,3,2.65
+B000058,Linear Algebra: A Modern Approach 58,Mathematics,5,2,3,3,2.65
+B000116,Data Mining: An Applied Introduction 116,Computer Science,5,2,3,3,2.65
+B000301,Project Management: A Modern Approach 301,Management,9,1,3,3,2.65
+B000048,Optics: Principles and Applications 48,Physics,2,2,2,2,2.5
+B000109,Probability Theory: A Modern Approach 109,Mathematics,6,1,2,3,2.5
+B000183,Analytical Chemistry: Principles and Applications 183,Chemistry,2,2,2,2,2.5
+B000190,Classical Mechanics: Principles and Applications 190,Physics,2,2,2,2,2.5
+B000252,Project Management: Principles and Applications 252,Management,6,1,2,2,2.5
+B000254,Manufacturing Systems: A Modern Approach 254,Mechanical Engineering,6,1,2,2,2.5
+B000275,Manufacturing Systems: Principles and Applications 275,Mechanical Engineering,6,1,2,2,2.5
+B000276,Operations Management: An Applied Introduction 276,Management,2,2,2,2,2.5
+B000207,"Project Management: Concepts, Models, and Tools 207",Management,10,2,5,6,2.4
+B000069,Urban Infrastructure: Principles and Applications 69,Civil Engineering,3,1,1,1,2.35
+B000143,Discrete Mathematics: Methods for Researchers 143,Mathematics,3,1,1,1,2.35
+B000291,Logic: An Applied Introduction 291,Philosophy,3,1,1,2,2.35
+B000270,Project Management: Principles and Applications 270,Management,7,2,4,4,2.25
+B000299,Logic: A Modern Approach 299,Philosophy,0,1,0,1,2.2
+B000075,Philosophy of Science: An Applied Introduction 75,Philosophy,8,1,3,3,2.1
+B000170,Modern Fiction: Methods for Researchers 170,Literature,8,1,3,3,2.1
+B000243,Development Economics: A Modern Approach 243,Economics,8,1,3,4,2.1
+B000262,"Digital Circuits: Concepts, Models, and Tools 262",Electrical Engineering,8,1,3,3,2.1
+B000094,"Classical Mechanics: Concepts, Models, and Tools 94",Physics,5,1,2,3,1.95
+B000232,Logic: An Applied Introduction 232,Philosophy,5,1,2,2,1.95
+B000097,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry,13,1,5,5,1.85
+B000302,"Research Methods: Concepts, Models, and Tools 302",Psychology,9,2,5,5,1.85
+B000096,Manufacturing Systems: A Modern Approach 96,Mechanical Engineering,2,1,1,1,1.8
+B000151,Construction Planning: A Modern Approach 151,Civil Engineering,2,1,1,1,1.8
+B000140,Analytical Chemistry: Principles and Applications 140,Chemistry,6,2,4,4,1.7
+B000004,Machine Learning: Case Studies and Practice 4,Computer Science,7,1,3,3,1.55
+B000163,Classical Mechanics: Case Studies and Practice 163,Physics,3,2,3,3,1.55
+B000206,"Manufacturing Systems: Concepts, Models, and Tools 206",Mechanical Engineering,3,2,3,3,1.55
+B000249,Quantum Mechanics: Principles and Applications 249,Physics,7,1,3,3,1.55
+B000307,"Signal Processing: Concepts, Models, and Tools 307",Electrical Engineering,7,1,3,3,1.55
+B000308,Urban Infrastructure: Methods for Researchers 308,Civil Engineering,3,2,3,3,1.55
+B000047,Behavioral Analysis: A Modern Approach 47,Psychology,4,1,2,2,1.4
+B000066,Algorithms: An Applied Introduction 66,Computer Science,4,1,2,2,1.4
+B000078,Public Policy: Methods for Researchers 78,Economics,4,1,2,2,1.4
+B000199,Behavioral Analysis: Methods for Researchers 199,Psychology,4,1,2,2,1.4
+B000216,"Microeconomics: Concepts, Models, and Tools 216",Economics,4,1,2,2,1.4
+B000288,Signal Processing: A Modern Approach 288,Electrical Engineering,4,1,2,2,1.4
+B000059,"World History: Concepts, Models, and Tools 59",History,1,1,1,1,1.25
+B000141,Literary Criticism: Principles and Applications 141,Literature,5,0,1,1,1.25
+B000201,Robotics: Case Studies and Practice 201,Mechanical Engineering,1,1,1,1,1.25
+B000316,Probability Theory: Principles and Applications 316,Mathematics,1,1,1,1,1.25
+B000068,Microeconomics: An Applied Introduction 68,Economics,16,2,8,8,1.2
+B000049,Algorithms: Methods for Researchers 49,Computer Science,5,2,4,4,1.15
+B000223,Digital Circuits: A Modern Approach 223,Electrical Engineering,9,1,4,5,1.15
+B000267,"Cloud Computing: Concepts, Models, and Tools 267",Computer Science,9,1,4,4,1.15
+B000172,"Quantum Mechanics: Concepts, Models, and Tools 172",Physics,2,2,3,3,1.0
+B000174,"Data Mining: Concepts, Models, and Tools 174",Computer Science,6,1,3,4,1.0
+B000042,"Manufacturing Systems: Concepts, Models, and Tools 42",Mechanical Engineering,3,1,2,2,0.85
+B000051,Control Systems: Principles and Applications 51,Electrical Engineering,3,1,2,3,0.85
+B000090,Database Systems: Methods for Researchers 90,Computer Science,3,1,2,3,0.85
+B000107,Molecular Biology: An Applied Introduction 107,Biology,7,0,2,3,0.85
+B000114,Logic: Case Studies and Practice 114,Philosophy,7,0,2,2,0.85
+B000175,Quantum Mechanics: Case Studies and Practice 175,Physics,3,1,2,3,0.85
+B000187,Molecular Biology: Methods for Researchers 187,Biology,3,1,2,2,0.85
+B000274,"Digital Circuits: Concepts, Models, and Tools 274",Electrical Engineering,3,1,2,2,0.85
+B000303,Molecular Biology: Case Studies and Practice 303,Biology,3,1,2,2,0.85
+B000304,Cognitive Psychology: Case Studies and Practice 304,Psychology,3,1,2,2,0.85
+B000019,Philosophy of Science: Principles and Applications 19,Philosophy,11,1,5,6,0.75
+B000043,Linear Algebra: A Modern Approach 43,Mathematics,0,1,1,1,0.7
+B000137,Construction Planning: A Modern Approach 137,Civil Engineering,0,1,1,1,0.7
+B000150,"Ecology: Concepts, Models, and Tools 150",Biology,4,0,1,1,0.7
+B000231,Materials Chemistry: A Modern Approach 231,Chemistry,0,1,1,1,0.7
+B000297,Historical Methods: Case Studies and Practice 297,History,0,1,1,1,0.7
+B000022,Machine Learning: Principles and Applications 22,Computer Science,8,1,4,5,0.6
+B000072,"Analytical Chemistry: Concepts, Models, and Tools 72",Chemistry,8,1,4,4,0.6
+B000290,Business Analytics: Case Studies and Practice 290,Management,4,2,4,4,0.6
+B000259,Algorithms: A Modern Approach 259,Computer Science,12,2,7,7,0.5
+B000082,Logic: An Applied Introduction 82,Philosophy,5,1,3,3,0.45
+B000158,Logic: Principles and Applications 158,Philosophy,5,1,3,3,0.45
+B000016,Econometrics: Principles and Applications 16,Economics,6,0,2,3,0.3
+B000071,"Quantum Mechanics: Concepts, Models, and Tools 71",Physics,2,1,2,3,0.3
+B000104,Control Systems: Principles and Applications 104,Electrical Engineering,2,1,2,3,0.3
+B000144,"Modern Iran: Concepts, Models, and Tools 144",History,6,0,2,2,0.3
+B000152,Strategic Management: A Modern Approach 152,Management,6,0,2,3,0.3
+B000186,Manufacturing Systems: A Modern Approach 186,Mechanical Engineering,6,0,2,2,0.3
+B000218,Literary Criticism: Principles and Applications 218,Literature,6,0,2,2,0.3
+B000277,Operations Management: Case Studies and Practice 277,Management,10,1,5,5,0.2
+B000153,World Literature: Principles and Applications 153,Literature,3,0,1,1,0.15
+B000176,Power Networks: Principles and Applications 176,Electrical Engineering,3,0,1,2,0.15
+B000229,"Construction Planning: Concepts, Models, and Tools 229",Civil Engineering,3,0,1,1,0.15
+B000013,Database Systems: Case Studies and Practice 13,Computer Science,7,1,4,5,0.05
+B000034,"Ecology: Concepts, Models, and Tools 34",Biology,7,1,4,4,0.05
+B000311,Cell Biology: Case Studies and Practice 311,Biology,3,2,4,4,0.05
+B000315,Quantum Mechanics: Principles and Applications 315,Physics,0,0,0,1,0.0
+B000180,"Quantum Mechanics: Concepts, Models, and Tools 180",Physics,4,1,3,3,-0.1
+B000008,Numerical Methods: A Modern Approach 8,Mathematics,8,2,6,6,-0.2
+B000213,Urban History: An Applied Introduction 213,History,5,0,2,2,-0.25
+B000122,Database Systems: Methods for Researchers 122,Computer Science,9,1,5,6,-0.35
+B000185,Urban Infrastructure: Principles and Applications 185,Civil Engineering,9,1,5,5,-0.35
+B000037,World History: A Modern Approach 37,History,2,0,1,1,-0.4
+B000181,Ecology: An Applied Introduction 181,Biology,2,0,1,1,-0.4
+B000220,Ecology: Methods for Researchers 220,Biology,2,0,1,1,-0.4
+B000292,"Ecology: Concepts, Models, and Tools 292",Biology,2,0,1,1,-0.4
+B000103,"Data Mining: Concepts, Models, and Tools 103",Computer Science,6,1,4,5,-0.5
+B000026,Modern Fiction: A Modern Approach 26,Literature,3,1,3,4,-0.65
+B000053,Project Management: Case Studies and Practice 53,Management,7,0,3,3,-0.65
+B000245,Political Philosophy: Case Studies and Practice 245,Philosophy,3,1,3,3,-0.65
+B000266,"Discrete Mathematics: Concepts, Models, and Tools 266",Mathematics,3,1,3,4,-0.65
+B000018,Econometrics: Methods for Researchers 18,Economics,4,0,2,2,-0.8
+B000285,Numerical Methods: Methods for Researchers 285,Mathematics,4,0,2,2,-0.8
+B000133,Urban Infrastructure: Methods for Researchers 133,Civil Engineering,1,0,1,1,-0.95
+B000148,Algorithms: Methods for Researchers 148,Computer Science,1,0,1,2,-0.95
+B000179,Quantum Mechanics: Case Studies and Practice 179,Physics,1,0,1,2,-0.95
+B000225,Political Philosophy: An Applied Introduction 225,Philosophy,1,0,1,1,-0.95
+B000238,Modern Iran: A Modern Approach 238,History,1,0,1,1,-0.95
+B000217,Econometrics: Case Studies and Practice 217,Economics,5,1,4,5,-1.05
+B000003,"Construction Planning: Concepts, Models, and Tools 3",Civil Engineering,6,0,3,3,-1.2
+B000063,Business Analytics: Principles and Applications 63,Management,2,1,3,3,-1.2
+B000083,Signal Processing: Methods for Researchers 83,Electrical Engineering,3,0,2,2,-1.35
+B000204,Literary Criticism: Principles and Applications 204,Literature,3,0,2,2,-1.35
+B000028,"Genetics: Concepts, Models, and Tools 28",Biology,0,0,1,1,-1.5
+B000222,Urban Infrastructure: Principles and Applications 222,Civil Engineering,0,0,1,1,-1.5
+B000235,"Public Policy: Concepts, Models, and Tools 235",Economics,0,0,1,2,-1.5
+B000257,Literary Criticism: An Applied Introduction 257,Literature,0,0,1,1,-1.5
+B000052,Development Economics: Case Studies and Practice 52,Economics,4,1,4,4,-1.6
+B000195,Control Systems: An Applied Introduction 195,Electrical Engineering,8,0,4,4,-1.6
+B000284,Philosophy of Science: A Modern Approach 284,Philosophy,4,1,4,4,-1.6
+B000159,Algorithms: Methods for Researchers 159,Computer Science,5,0,3,3,-1.75
+B000160,Machine Learning: A Modern Approach 160,Computer Science,1,1,3,3,-1.75
+B000209,Behavioral Analysis: A Modern Approach 209,Psychology,5,0,3,4,-1.75
+B000226,"Analytical Chemistry: Concepts, Models, and Tools 226",Chemistry,1,1,3,4,-1.75
+B000025,"Modern Fiction: Concepts, Models, and Tools 25",Literature,2,0,2,2,-1.9
+B000086,Literary Criticism: Methods for Researchers 86,Literature,2,0,2,2,-1.9
+B000118,Statistical Physics: Principles and Applications 118,Physics,2,0,2,2,-1.9
+B000011,Statistical Physics: A Modern Approach 11,Physics,7,0,4,4,-2.15
+B000064,Ecology: Methods for Researchers 64,Biology,7,0,4,5,-2.15
+B000124,"Strategic Management: Concepts, Models, and Tools 124",Management,7,0,4,4,-2.15
+B000253,Digital Circuits: Case Studies and Practice 253,Electrical Engineering,4,0,3,3,-2.3
+B000030,"Numerical Methods: Concepts, Models, and Tools 30",Mathematics,12,0,6,6,-2.4
+B000040,Robotics: An Applied Introduction 40,Mechanical Engineering,1,0,2,2,-2.45
+B000092,Laboratory Methods: Principles and Applications 92,Chemistry,1,0,2,2,-2.45
+B000101,"Learning Theory: Concepts, Models, and Tools 101",Psychology,1,0,2,2,-2.45
+B000256,World Literature: Case Studies and Practice 256,Literature,1,0,2,2,-2.45
+B000089,Development Economics: An Applied Introduction 89,Economics,9,0,5,5,-2.55
+B000057,Machine Learning: Case Studies and Practice 57,Computer Science,6,0,4,4,-2.7
+B000007,"Machine Learning: Concepts, Models, and Tools 7",Computer Science,3,0,3,4,-2.85
+B000054,Genetics: Case Studies and Practice 54,Biology,3,0,3,3,-2.85
+B000062,Manufacturing Systems: An Applied Introduction 62,Mechanical Engineering,5,0,4,4,-3.25
+B000081,"Operations Management: Concepts, Models, and Tools 81",Management,5,0,4,4,-3.25
+B000145,Project Management: Principles and Applications 145,Management,4,0,4,4,-3.8
+B000157,Philosophy of Science: Principles and Applications 157,Philosophy,5,0,5,5,-4.75

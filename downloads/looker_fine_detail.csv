@@ -1,0 +1,409 @@
+fine_id,assessed_date,fine_type,amount,paid_amount,outstanding_amount,fine_status,member_type,title,category_name
+F000001,2024-10-03,late_return,7.5,0,7.5,unpaid,student,Control Systems: Principles and Applications 51,Electrical Engineering
+F000002,2024-10-03,late_return,3,0,3.0,unpaid,student,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+F000003,2024-10-07,late_return,11.25,0,11.25,waived,student,"Strategic Management: Concepts, Models, and Tools 124",Management
+F000004,2024-10-16,late_return,15.75,15.75,0.0,paid,student,Machine Learning: Case Studies and Practice 4,Computer Science
+F000005,2024-10-14,late_return,14.25,0,14.25,unpaid,student,Business Analytics: Case Studies and Practice 318,Management
+F000006,2024-10-17,late_return,11.25,11.25,0.0,paid,student,Manufacturing Systems: A Modern Approach 186,Mechanical Engineering
+F000007,2024-10-12,late_return,2.25,0,2.25,unpaid,student,Manufacturing Systems: Principles and Applications 275,Mechanical Engineering
+F000008,2024-09-30,late_return,3,3,0.0,paid,public,Cloud Computing: Principles and Applications 102,Computer Science
+F000009,2024-10-22,late_return,3.75,2.44,1.31,partially_paid,student,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering
+F000010,2024-10-04,late_return,5.25,5.25,0.0,paid,faculty,Project Management: Principles and Applications 300,Management
+F000011,2024-10-11,late_return,9.75,9.75,0.0,paid,student,Strategic Management: An Applied Introduction 106,Management
+F000012,2024-10-09,late_return,6,0,6.0,unpaid,student,"Research Methods: Concepts, Models, and Tools 302",Psychology
+F000013,2024-10-29,late_return,4.5,4.5,0.0,paid,faculty,"Philosophy of Science: Concepts, Models, and Tools 70",Philosophy
+F000014,2024-10-29,late_return,9,0,9.0,unpaid,staff,Numerical Methods: Principles and Applications 309,Mathematics
+F000015,2024-10-30,late_return,17.25,17.25,0.0,paid,student,Strategic Management: Case Studies and Practice 10,Management
+F000016,2024-10-28,late_return,3.75,3.75,0.0,paid,student,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+F000017,2024-10-18,late_return,4.5,4.5,0.0,paid,student,"Classical Mechanics: Concepts, Models, and Tools 94",Physics
+F000018,2024-10-27,late_return,4.5,4.5,0.0,paid,faculty,Analytical Chemistry: Case Studies and Practice 228,Chemistry
+F000019,2024-10-25,late_return,2.25,1.69,0.56,partially_paid,student,"Ecology: Concepts, Models, and Tools 34",Biology
+F000020,2024-11-05,late_return,15.75,10.05,5.7,partially_paid,student,Urban History: An Applied Introduction 213,History
+F000021,2024-11-16,late_return,7.5,7.5,0.0,paid,student,Algorithms: An Applied Introduction 66,Computer Science
+F000022,2024-11-06,late_return,10.5,10.5,0.0,paid,staff,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+F000023,2024-11-05,late_return,0.75,0.75,0.0,paid,faculty,Development Economics: Principles and Applications 136,Economics
+F000024,2024-10-22,damage,34.11,34.11,0.0,paid,student,Econometrics: Principles and Applications 293,Economics
+F000025,2024-11-05,late_return,1.5,0,1.5,unpaid,student,Soil Mechanics: Principles and Applications 45,Civil Engineering
+F000026,2024-10-29,late_return,0.75,0.75,0.0,paid,staff,"Numerical Methods: Concepts, Models, and Tools 30",Mathematics
+F000027,2024-11-14,late_return,2.25,0,2.25,waived,student,"Research Methods: Concepts, Models, and Tools 302",Psychology
+F000028,2024-12-01,late_return,8.25,0,8.25,unpaid,student,Ethics: A Modern Approach 135,Philosophy
+F000029,2024-11-19,late_return,13.5,13.5,0.0,paid,student,Strategic Management: A Modern Approach 152,Management
+F000030,2024-11-14,late_return,4.5,2.13,2.37,partially_paid,student,Classical Mechanics: An Applied Introduction 289,Physics
+F000031,2024-11-16,late_return,9.75,9.75,0.0,paid,staff,Classical Mechanics: Methods for Researchers 194,Physics
+F000032,2024-12-02,late_return,11.25,11.25,0.0,paid,student,Data Mining: A Modern Approach 314,Computer Science
+F000033,2024-11-11,late_return,3.75,1.72,2.03,partially_paid,public,Optics: An Applied Introduction 281,Physics
+F000034,2024-12-05,late_return,9.75,0,9.75,waived,student,Operations Management: Principles and Applications 193,Management
+F000035,2024-11-22,late_return,9.75,2.77,6.98,partially_paid,staff,"Analytical Chemistry: Concepts, Models, and Tools 72",Chemistry
+F000036,2024-11-25,late_return,11.25,0,11.25,unpaid,staff,Business Analytics: Methods for Researchers 221,Management
+F000037,2024-11-25,late_return,5.25,0,5.25,unpaid,staff,Genetics: Principles and Applications 84,Biology
+F000038,2024-12-04,late_return,12,0,12.0,unpaid,student,Analytical Chemistry: Case Studies and Practice 228,Chemistry
+F000039,2024-12-10,late_return,9.75,9.75,0.0,paid,student,Business Analytics: Principles and Applications 310,Management
+F000040,2024-12-06,late_return,5.25,5.25,0.0,paid,student,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry
+F000041,2024-12-01,late_return,1.5,1.5,0.0,paid,faculty,Literary Criticism: An Applied Introduction 278,Literature
+F000042,2024-12-15,late_return,10.5,5.94,4.56,partially_paid,student,Machine Learning: An Applied Introduction 263,Computer Science
+F000043,2024-11-20,late_return,2.25,0,2.25,unpaid,faculty,Business Analytics: Methods for Researchers 221,Management
+F000044,2024-12-04,late_return,6,6,0.0,paid,faculty,Development Economics: An Applied Introduction 89,Economics
+F000045,2024-11-24,late_return,0.75,0.48,0.27,partially_paid,student,"Analytical Chemistry: Concepts, Models, and Tools 226",Chemistry
+F000046,2024-11-26,late_return,0.75,0,0.75,unpaid,student,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+F000047,2024-12-14,late_return,9,9,0.0,paid,student,Fluid Mechanics: Methods for Researchers 269,Mechanical Engineering
+F000048,2024-12-13,late_return,11.25,11.25,0.0,paid,public,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+F000049,2024-12-07,late_return,6,6,0.0,paid,student,Structural Analysis: An Applied Introduction 36,Civil Engineering
+F000050,2024-12-21,late_return,15.75,15.75,0.0,paid,student,Laboratory Methods: Case Studies and Practice 5,Chemistry
+F000051,2024-12-20,late_return,14.25,0,14.25,unpaid,student,"Project Management: Concepts, Models, and Tools 207",Management
+F000052,2024-12-18,late_return,5.25,5.25,0.0,paid,student,Algorithms: Methods for Researchers 49,Computer Science
+F000053,2024-12-26,late_return,15.75,15.75,0.0,paid,student,"Microeconomics: Concepts, Models, and Tools 198",Economics
+F000054,2024-12-18,late_return,9,3.18,5.82,partially_paid,public,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry
+F000055,2024-12-30,late_return,12.75,12.75,0.0,paid,staff,Literary Criticism: Principles and Applications 218,Literature
+F000056,2025-01-04,late_return,11.25,6.12,5.13,partially_paid,staff,"Literary Criticism: Concepts, Models, and Tools 306",Literature
+F000057,2024-12-12,late_return,2.25,2.25,0.0,paid,student,Statistical Physics: An Applied Introduction 21,Physics
+F000058,2024-12-31,late_return,10.5,10.5,0.0,paid,student,Data Mining: A Modern Approach 241,Computer Science
+F000059,2024-12-08,damage,32.59,32.59,0.0,paid,student,Strategic Management: Case Studies and Practice 165,Management
+F000060,2025-01-31,lost_item,76.24,76.24,0.0,paid,student,Construction Planning: A Modern Approach 155,Civil Engineering
+F000061,2024-12-31,late_return,11.25,11.25,0.0,paid,student,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+F000062,2025-01-06,late_return,13.5,13.5,0.0,paid,public,Construction Planning: A Modern Approach 151,Civil Engineering
+F000063,2025-01-30,lost_item,46.49,0,46.49,unpaid,student,Business Analytics: A Modern Approach 91,Management
+F000064,2024-12-14,damage,27.14,27.14,0.0,paid,faculty,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+F000065,2024-12-14,damage,19.44,13.53,5.91,partially_paid,student,Operations Management: Case Studies and Practice 23,Management
+F000066,2025-01-27,late_return,15,0,15.0,unpaid,student,Soil Mechanics: An Applied Introduction 312,Civil Engineering
+F000067,2025-01-16,late_return,8.25,0,8.25,unpaid,student,"Project Management: Concepts, Models, and Tools 207",Management
+F000068,2025-02-01,late_return,16.5,3.62,12.88,partially_paid,public,Machine Learning: Case Studies and Practice 57,Computer Science
+F000069,2025-01-29,late_return,18,18,0.0,paid,student,Business Analytics: An Applied Introduction 115,Management
+F000070,2025-01-19,late_return,3,3,0.0,paid,faculty,Robotics: An Applied Introduction 108,Mechanical Engineering
+F000071,2025-01-19,late_return,8.25,5.14,3.11,partially_paid,public,Philosophy of Science: A Modern Approach 284,Philosophy
+F000072,2025-01-19,late_return,2.25,2.25,0.0,paid,student,Algorithms: A Modern Approach 259,Computer Science
+F000073,2025-01-29,late_return,6.75,0,6.75,unpaid,student,Signal Processing: Methods for Researchers 9,Electrical Engineering
+F000074,2025-02-02,late_return,15,3.1,11.9,partially_paid,staff,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000075,2025-02-04,late_return,9.75,9.75,0.0,paid,student,Behavioral Analysis: Methods for Researchers 182,Psychology
+F000076,2025-02-08,late_return,11.25,11.25,0.0,paid,student,Strategic Management: A Modern Approach 227,Management
+F000077,2025-02-06,late_return,14.25,11.03,3.22,partially_paid,student,Algorithms: A Modern Approach 41,Computer Science
+F000078,2025-01-27,late_return,1.5,1.5,0.0,paid,student,Statistical Physics: A Modern Approach 11,Physics
+F000079,2025-02-16,late_return,15.75,15.75,0.0,paid,faculty,Econometrics: Principles and Applications 2,Economics
+F000080,2025-02-12,late_return,6.75,0,6.75,unpaid,student,Business Analytics: Methods for Researchers 230,Management
+F000081,2025-02-20,late_return,15,0,15.0,unpaid,student,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering
+F000082,2025-02-13,late_return,9,0,9.0,unpaid,faculty,"Classical Mechanics: Concepts, Models, and Tools 94",Physics
+F000083,2025-02-23,late_return,10.5,5.18,5.32,partially_paid,staff,Probability Theory: A Modern Approach 242,Mathematics
+F000084,2025-02-08,late_return,4.5,2.53,1.97,partially_paid,staff,Historical Methods: Methods for Researchers 20,History
+F000085,2025-02-27,late_return,13.5,0,13.5,unpaid,student,"Manufacturing Systems: Concepts, Models, and Tools 206",Mechanical Engineering
+F000086,2025-02-22,late_return,9,0,9.0,unpaid,student,Ethics: A Modern Approach 135,Philosophy
+F000087,2025-02-12,late_return,6,6,0.0,paid,public,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+F000088,2025-02-27,late_return,16.5,16.5,0.0,paid,student,Cognitive Psychology: Case Studies and Practice 304,Psychology
+F000089,2025-01-27,damage,19.56,19.56,0.0,paid,student,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+F000090,2025-03-07,late_return,18,0,18.0,unpaid,student,"Modern Iran: Concepts, Models, and Tools 88",History
+F000091,2025-02-14,late_return,0.75,0.75,0.0,paid,student,Econometrics: Principles and Applications 293,Economics
+F000092,2025-02-11,damage,9.02,9.02,0.0,paid,student,Database Systems: A Modern Approach 93,Computer Science
+F000093,2025-03-12,late_return,8.25,8.25,0.0,paid,student,Machine Learning: Principles and Applications 22,Computer Science
+F000094,2025-03-08,late_return,10.5,4.37,6.13,partially_paid,student,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+F000095,2025-02-20,damage,32.64,0,32.64,unpaid,student,Power Networks: Principles and Applications 176,Electrical Engineering
+F000096,2025-02-20,damage,30.73,30.73,0.0,paid,student,Numerical Methods: An Applied Introduction 251,Mathematics
+F000097,2025-03-16,late_return,15,0,15.0,unpaid,faculty,Microeconomics: An Applied Introduction 68,Economics
+F000098,2025-03-15,late_return,14.25,14.25,0.0,paid,faculty,Database Systems: Methods for Researchers 287,Computer Science
+F000099,2025-03-22,late_return,8.25,0,8.25,unpaid,student,Genetics: Principles and Applications 84,Biology
+F000100,2025-02-15,damage,26.15,0,26.15,unpaid,student,Laboratory Methods: A Modern Approach 80,Chemistry
+F000101,2025-03-15,late_return,0.75,0.75,0.0,paid,faculty,Signal Processing: Methods for Researchers 126,Electrical Engineering
+F000102,2025-03-25,late_return,12,12,0.0,paid,student,Signal Processing: Methods for Researchers 280,Electrical Engineering
+F000103,2025-04-01,late_return,14.25,14.25,0.0,paid,student,Ecology: Methods for Researchers 64,Biology
+F000104,2025-04-04,late_return,9,9,0.0,paid,student,Structural Analysis: An Applied Introduction 36,Civil Engineering
+F000105,2025-04-02,late_return,12.75,12.75,0.0,paid,student,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000106,2025-04-06,late_return,14.25,14.25,0.0,paid,student,Modern Fiction: A Modern Approach 26,Literature
+F000107,2025-03-30,late_return,2.25,0,2.25,unpaid,student,Business Analytics: Principles and Applications 310,Management
+F000108,2025-04-07,late_return,7.5,7.5,0.0,paid,faculty,Urban Infrastructure: Case Studies and Practice 139,Civil Engineering
+F000109,2025-04-09,late_return,9,3.45,5.55,partially_paid,student,Numerical Methods: An Applied Introduction 271,Mathematics
+F000110,2025-05-02,lost_item,78.06,0,78.06,waived,staff,Development Economics: Methods for Researchers 273,Economics
+F000111,2025-04-09,late_return,13.5,13.5,0.0,paid,staff,Linear Algebra: An Applied Introduction 305,Mathematics
+F000112,2025-03-29,late_return,3.75,3.75,0.0,paid,student,"Microeconomics: Concepts, Models, and Tools 198",Economics
+F000113,2025-04-16,late_return,12,12,0.0,paid,student,Business Analytics: An Applied Introduction 115,Management
+F000114,2025-04-19,late_return,13.5,13.5,0.0,paid,student,Strategic Management: Case Studies and Practice 165,Management
+F000115,2025-04-10,late_return,10.5,4.06,6.44,partially_paid,staff,Operations Management: Case Studies and Practice 23,Management
+F000116,2025-04-16,late_return,13.5,9.79,3.71,partially_paid,student,Power Networks: Methods for Researchers 87,Electrical Engineering
+F000117,2025-04-19,late_return,14.25,0,14.25,waived,student,Development Economics: Methods for Researchers 38,Economics
+F000118,2025-04-30,late_return,11.25,7.39,3.86,partially_paid,student,Cognitive Psychology: Case Studies and Practice 128,Psychology
+F000119,2025-04-16,late_return,11.25,3.06,8.19,partially_paid,student,Development Economics: Methods for Researchers 38,Economics
+F000120,2025-04-23,late_return,10.5,10.5,0.0,paid,student,Statistical Physics: A Modern Approach 55,Physics
+F000121,2025-04-06,late_return,2.25,0.91,1.34,partially_paid,public,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics
+F000122,2025-04-19,late_return,12,0,12.0,unpaid,student,Machine Learning: An Applied Introduction 263,Computer Science
+F000123,2025-05-17,lost_item,45.16,45.16,0.0,paid,student,Construction Planning: Case Studies and Practice 14,Civil Engineering
+F000124,2025-04-29,late_return,11.25,11.25,0.0,paid,student,Data Mining: Principles and Applications 313,Computer Science
+F000125,2025-05-05,late_return,10.5,10.5,0.0,paid,staff,Urban History: An Applied Introduction 213,History
+F000126,2025-04-08,late_return,0.75,0.48,0.27,partially_paid,faculty,Microeconomics: Case Studies and Practice 162,Economics
+F000127,2025-04-21,late_return,5.25,5.25,0.0,paid,student,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry
+F000128,2025-04-21,late_return,9.75,9.75,0.0,paid,student,Database Systems: An Applied Introduction 248,Computer Science
+F000129,2025-05-08,late_return,18,18,0.0,paid,student,Construction Planning: Principles and Applications 95,Civil Engineering
+F000130,2025-05-04,late_return,9.75,0,9.75,unpaid,faculty,Learning Theory: Methods for Researchers 250,Psychology
+F000131,2025-04-24,late_return,1.5,1.05,0.45,partially_paid,student,Machine Learning: Case Studies and Practice 57,Computer Science
+F000132,2025-05-10,late_return,18,9.17,8.83,partially_paid,public,"Ecology: Concepts, Models, and Tools 150",Biology
+F000133,2025-05-19,late_return,15.75,15.75,0.0,paid,student,Development Economics: Principles and Applications 136,Economics
+F000134,2025-05-13,late_return,4.5,2.91,1.59,partially_paid,student,Project Management: Principles and Applications 270,Management
+F000135,2025-04-14,damage,10.56,0,10.56,unpaid,faculty,Logic: An Applied Introduction 82,Philosophy
+F000136,2025-05-11,late_return,11.25,0,11.25,unpaid,student,"Modern Iran: Concepts, Models, and Tools 144",History
+F000137,2025-05-01,late_return,2.25,2.25,0.0,paid,student,"Ecology: Concepts, Models, and Tools 34",Biology
+F000138,2025-05-12,late_return,9.75,0,9.75,unpaid,student,"Database Systems: Concepts, Models, and Tools 265",Computer Science
+F000139,2025-05-21,late_return,4.5,4.5,0.0,paid,staff,Control Systems: An Applied Introduction 195,Electrical Engineering
+F000140,2025-05-10,late_return,6,0,6.0,waived,staff,Fluid Mechanics: Methods for Researchers 269,Mechanical Engineering
+F000141,2025-05-21,late_return,10.5,10.5,0.0,paid,faculty,Microeconomics: Case Studies and Practice 117,Economics
+F000142,2025-05-30,late_return,10.5,5.99,4.51,partially_paid,student,Development Economics: An Applied Introduction 89,Economics
+F000143,2025-06-09,late_return,7.5,7.5,0.0,paid,student,Modern Iran: Principles and Applications 317,History
+F000144,2025-05-14,late_return,3,3,0.0,paid,staff,Literary Criticism: Methods for Researchers 86,Literature
+F000145,2025-05-16,late_return,3.75,3.75,0.0,paid,faculty,"Philosophy of Science: Concepts, Models, and Tools 154",Philosophy
+F000146,2025-05-23,late_return,9,3.4,5.6,partially_paid,student,Digital Circuits: A Modern Approach 60,Electrical Engineering
+F000147,2025-05-30,late_return,8.25,0,8.25,unpaid,student,Development Economics: Case Studies and Practice 52,Economics
+F000148,2025-06-30,lost_item,38.65,0,38.65,waived,public,Operations Management: Case Studies and Practice 164,Management
+F000149,2025-05-22,late_return,2.25,2.25,0.0,paid,student,Public Policy: Principles and Applications 77,Economics
+F000150,2025-06-10,late_return,12.75,0,12.75,unpaid,student,Signal Processing: Methods for Researchers 9,Electrical Engineering
+F000151,2025-06-05,late_return,7.5,7.5,0.0,paid,faculty,Manufacturing Systems: Principles and Applications 127,Mechanical Engineering
+F000152,2025-06-20,late_return,7.5,7.5,0.0,paid,staff,Microeconomics: A Modern Approach 258,Economics
+F000153,2025-07-16,lost_item,50.93,0,50.93,waived,student,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics
+F000154,2025-06-17,late_return,15,15,0.0,paid,student,Project Management: Principles and Applications 300,Management
+F000155,2025-06-22,late_return,14.25,3.13,11.12,partially_paid,student,"Signal Processing: Concepts, Models, and Tools 307",Electrical Engineering
+F000156,2025-06-19,late_return,12,2.8,9.2,partially_paid,student,"Analytical Chemistry: Concepts, Models, and Tools 72",Chemistry
+F000157,2025-06-15,late_return,0.75,0,0.75,waived,student,Numerical Methods: An Applied Introduction 251,Mathematics
+F000158,2025-06-15,late_return,5.25,5.25,0.0,paid,student,Analytical Chemistry: Case Studies and Practice 228,Chemistry
+F000159,2025-07-03,late_return,8.25,0,8.25,unpaid,student,Modern Fiction: Case Studies and Practice 147,Literature
+F000160,2025-06-16,damage,19.76,19.76,0.0,paid,student,Business Analytics: Case Studies and Practice 318,Management
+F000161,2025-06-28,late_return,12.75,12.75,0.0,paid,student,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+F000162,2025-07-03,late_return,15,9.4,5.6,partially_paid,student,Molecular Biology: Case Studies and Practice 303,Biology
+F000163,2025-06-09,damage,24.53,0,24.53,unpaid,student,Modern Fiction: Methods for Researchers 170,Literature
+F000164,2025-06-30,late_return,12,12,0.0,paid,student,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+F000165,2025-06-19,damage,9.95,0,9.95,unpaid,faculty,Algorithms: Methods for Researchers 159,Computer Science
+F000166,2025-06-20,late_return,2.25,2.25,0.0,paid,student,Ecology: Methods for Researchers 220,Biology
+F000167,2025-07-12,late_return,18,0,18.0,unpaid,faculty,"Research Methods: Concepts, Models, and Tools 302",Psychology
+F000168,2025-06-27,late_return,6,0,6.0,waived,student,Business Analytics: An Applied Introduction 115,Management
+F000169,2025-06-22,late_return,2.25,2.25,0.0,paid,staff,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+F000170,2025-08-08,lost_item,30.97,30.97,0.0,paid,student,Algorithms: Case Studies and Practice 46,Computer Science
+F000171,2025-06-21,late_return,0.75,0,0.75,unpaid,student,Signal Processing: Case Studies and Practice 215,Electrical Engineering
+F000172,2025-07-25,lost_item,90.47,54.84,35.63,partially_paid,student,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering
+F000173,2025-07-15,late_return,12.75,12.75,0.0,paid,public,Signal Processing: Methods for Researchers 280,Electrical Engineering
+F000174,2025-07-20,late_return,10.5,0,10.5,unpaid,student,Database Systems: An Applied Introduction 248,Computer Science
+F000175,2025-07-04,late_return,3,3,0.0,paid,student,Microeconomics: Case Studies and Practice 162,Economics
+F000176,2025-07-11,late_return,6.75,6.75,0.0,paid,student,Quantum Mechanics: Principles and Applications 177,Physics
+F000177,2025-07-06,late_return,3,3,0.0,paid,faculty,Manufacturing Systems: An Applied Introduction 62,Mechanical Engineering
+F000178,2025-07-10,late_return,5.25,5.25,0.0,paid,student,Development Economics: A Modern Approach 73,Economics
+F000179,2025-07-12,late_return,11.25,0,11.25,unpaid,faculty,Database Systems: An Applied Introduction 248,Computer Science
+F000180,2025-07-24,late_return,12.75,12.75,0.0,paid,student,Construction Planning: Principles and Applications 95,Civil Engineering
+F000181,2025-07-12,late_return,3,1.22,1.78,partially_paid,student,Operations Management: Case Studies and Practice 277,Management
+F000182,2025-07-24,late_return,12,12,0.0,paid,student,Soil Mechanics: Principles and Applications 45,Civil Engineering
+F000183,2025-07-17,late_return,6,6,0.0,paid,student,"Thermodynamics: Concepts, Models, and Tools 161",Mechanical Engineering
+F000184,2025-07-07,late_return,2.25,2.25,0.0,paid,student,Database Systems: An Applied Introduction 248,Computer Science
+F000185,2025-06-25,damage,21.69,21.69,0.0,paid,student,Database Systems: An Applied Introduction 149,Computer Science
+F000186,2025-08-03,late_return,4.5,4.5,0.0,paid,faculty,Optics: Methods for Researchers 197,Physics
+F000187,2025-07-16,late_return,0.75,0.75,0.0,paid,student,Robotics: An Applied Introduction 108,Mechanical Engineering
+F000188,2025-07-31,late_return,5.25,5.25,0.0,paid,faculty,"Strategic Management: Concepts, Models, and Tools 124",Management
+F000189,2025-08-08,late_return,16.5,9.31,7.19,partially_paid,public,Thermodynamics: Case Studies and Practice 246,Mechanical Engineering
+F000190,2025-07-23,late_return,5.25,5.25,0.0,paid,faculty,Construction Planning: Case Studies and Practice 14,Civil Engineering
+F000191,2025-08-02,late_return,6.75,6.75,0.0,paid,student,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+F000192,2025-08-07,late_return,15,0,15.0,unpaid,student,Research Methods: Case Studies and Practice 247,Psychology
+F000193,2025-08-06,late_return,3.75,0,3.75,waived,student,Laboratory Methods: A Modern Approach 80,Chemistry
+F000194,2025-07-19,damage,13.45,6.46,6.99,partially_paid,faculty,Signal Processing: Methods for Researchers 110,Electrical Engineering
+F000195,2025-08-11,late_return,11.25,0,11.25,unpaid,student,Numerical Methods: Principles and Applications 33,Mathematics
+F000196,2025-08-09,late_return,3.75,0,3.75,unpaid,student,Control Systems: An Applied Introduction 234,Electrical Engineering
+F000197,2025-08-12,late_return,15.75,15.75,0.0,paid,staff,Database Systems: An Applied Introduction 149,Computer Science
+F000198,2025-08-11,late_return,13.5,13.5,0.0,paid,public,"Modern Fiction: Concepts, Models, and Tools 25",Literature
+F000199,2025-08-17,late_return,12.75,5.54,7.21,partially_paid,student,Machine Learning: Case Studies and Practice 4,Computer Science
+F000200,2025-08-12,late_return,0.75,0.75,0.0,paid,student,Business Analytics: Case Studies and Practice 318,Management
+F000201,2025-08-05,late_return,5.25,0,5.25,unpaid,staff,Political Philosophy: Principles and Applications 272,Philosophy
+F000202,2025-08-26,late_return,10.5,7.6,2.9,partially_paid,staff,Analytical Chemistry: Principles and Applications 119,Chemistry
+F000203,2025-08-16,late_return,6.75,6.75,0.0,paid,faculty,Optics: An Applied Introduction 125,Physics
+F000204,2025-08-25,late_return,18,0,18.0,unpaid,student,"Numerical Methods: Concepts, Models, and Tools 30",Mathematics
+F000205,2025-08-24,late_return,11.25,8.3,2.95,partially_paid,student,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering
+F000206,2025-08-30,late_return,9.75,0,9.75,unpaid,public,Cloud Computing: Methods for Researchers 39,Computer Science
+F000207,2025-08-17,late_return,9,4.14,4.86,partially_paid,faculty,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+F000208,2025-08-19,late_return,9.75,9.75,0.0,paid,faculty,Probability Theory: Case Studies and Practice 138,Mathematics
+F000209,2025-09-03,late_return,8.25,0,8.25,unpaid,student,Business Analytics: An Applied Introduction 115,Management
+F000210,2025-09-13,lost_item,57.14,0,57.14,unpaid,faculty,Business Analytics: Methods for Researchers 230,Management
+F000211,2025-08-29,late_return,3.75,0,3.75,unpaid,faculty,"Digital Circuits: Concepts, Models, and Tools 274",Electrical Engineering
+F000212,2025-09-28,lost_item,102.18,0,102.18,unpaid,student,"Philosophy of Science: Concepts, Models, and Tools 154",Philosophy
+F000213,2025-09-28,lost_item,32.04,32.04,0.0,paid,student,Modern Fiction: A Modern Approach 26,Literature
+F000214,2025-09-12,late_return,17.25,17.25,0.0,paid,faculty,"Cloud Computing: Concepts, Models, and Tools 267",Computer Science
+F000215,2025-10-01,lost_item,49.19,34.58,14.61,partially_paid,student,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+F000216,2025-09-04,late_return,10.5,10.5,0.0,paid,student,Philosophy of Science: Principles and Applications 19,Philosophy
+F000217,2025-08-29,late_return,6,4.21,1.79,partially_paid,student,Molecular Biology: An Applied Introduction 107,Biology
+F000218,2025-08-31,late_return,11.25,11.25,0.0,paid,student,Behavioral Analysis: A Modern Approach 47,Psychology
+F000219,2025-09-09,late_return,16.5,0,16.5,unpaid,student,Cognitive Psychology: Case Studies and Practice 128,Psychology
+F000220,2025-08-22,late_return,2.25,0,2.25,unpaid,student,Construction Planning: Principles and Applications 95,Civil Engineering
+F000221,2025-09-27,lost_item,88.36,0,88.36,unpaid,student,Logic: Methods for Researchers 210,Philosophy
+F000222,2025-09-27,lost_item,41.44,0,41.44,unpaid,student,Structural Analysis: An Applied Introduction 36,Civil Engineering
+F000223,2025-08-23,damage,9.79,0,9.79,unpaid,faculty,Soil Mechanics: An Applied Introduction 312,Civil Engineering
+F000224,2025-09-03,late_return,1.5,1.5,0.0,paid,staff,Classical Mechanics: Methods for Researchers 194,Physics
+F000225,2025-09-11,late_return,7.5,2.6,4.9,partially_paid,student,Algorithms: A Modern Approach 259,Computer Science
+F000226,2025-09-29,lost_item,72.57,72.57,0.0,paid,student,Microeconomics: An Applied Introduction 1,Economics
+F000227,2025-09-16,late_return,14.25,0,14.25,unpaid,faculty,Operations Management: Case Studies and Practice 23,Management
+F000228,2025-09-25,late_return,13.5,13.5,0.0,paid,student,Statistical Physics: A Modern Approach 11,Physics
+F000229,2025-09-06,late_return,3,1.09,1.91,partially_paid,staff,"Ecology: Concepts, Models, and Tools 34",Biology
+F000230,2025-09-13,late_return,2.25,2.25,0.0,paid,student,Algorithms: A Modern Approach 259,Computer Science
+F000231,2025-09-28,late_return,6,0,6.0,unpaid,student,Signal Processing: Methods for Researchers 126,Electrical Engineering
+F000232,2025-09-24,late_return,12.75,12.75,0.0,paid,student,Development Economics: Methods for Researchers 38,Economics
+F000233,2025-09-21,late_return,3,3,0.0,paid,faculty,Project Management: A Modern Approach 236,Management
+F000234,2025-10-19,late_return,17.25,17.25,0.0,paid,public,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+F000235,2025-11-02,lost_item,35.87,35.87,0.0,paid,student,"Classical Mechanics: Concepts, Models, and Tools 94",Physics
+F000236,2025-10-27,lost_item,85.39,85.39,0.0,paid,student,"Data Mining: Concepts, Models, and Tools 103",Computer Science
+F000237,2025-10-03,late_return,2.25,2.25,0.0,paid,student,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering
+F000238,2025-09-25,late_return,0.75,0.75,0.0,paid,student,Microeconomics: An Applied Introduction 68,Economics
+F000239,2025-10-23,lost_item,37.8,37.8,0.0,paid,staff,Numerical Methods: An Applied Introduction 15,Mathematics
+F000240,2025-09-22,late_return,2.25,0,2.25,unpaid,student,"Manufacturing Systems: Concepts, Models, and Tools 206",Mechanical Engineering
+F000241,2025-10-13,late_return,12.75,12.75,0.0,paid,student,Genetics: A Modern Approach 237,Biology
+F000242,2025-09-28,late_return,4.5,1.27,3.23,partially_paid,student,Signal Processing: An Applied Introduction 219,Electrical Engineering
+F000243,2025-10-15,late_return,5.25,1.61,3.64,partially_paid,public,Digital Circuits: A Modern Approach 60,Electrical Engineering
+F000244,2025-09-28,late_return,2.25,2.25,0.0,paid,faculty,Behavioral Analysis: A Modern Approach 209,Psychology
+F000245,2025-10-05,late_return,2.25,2.25,0.0,paid,faculty,Analytical Chemistry: Case Studies and Practice 228,Chemistry
+F000246,2025-10-14,late_return,7.5,0,7.5,unpaid,staff,World Literature: Principles and Applications 153,Literature
+F000247,2025-10-07,late_return,6.75,1.44,5.31,partially_paid,faculty,Project Management: A Modern Approach 236,Management
+F000248,2025-10-06,late_return,5.25,5.25,0.0,paid,student,Urban Infrastructure: Principles and Applications 185,Civil Engineering
+F000249,2025-10-12,late_return,8.25,5.51,2.74,partially_paid,student,"Philosophy of Science: Concepts, Models, and Tools 70",Philosophy
+F000250,2025-10-19,late_return,10.5,10.5,0.0,paid,student,Digital Circuits: Case Studies and Practice 253,Electrical Engineering
+F000251,2025-10-19,late_return,10.5,0,10.5,waived,student,"Quantum Mechanics: Concepts, Models, and Tools 172",Physics
+F000252,2025-10-16,late_return,4.5,4.5,0.0,paid,faculty,Logic: Case Studies and Practice 184,Philosophy
+F000253,2025-10-31,late_return,6.75,6.75,0.0,paid,staff,Numerical Methods: Principles and Applications 33,Mathematics
+F000254,2025-10-27,late_return,9,9,0.0,paid,student,Control Systems: An Applied Introduction 195,Electrical Engineering
+F000255,2025-11-20,lost_item,79.16,0,79.16,unpaid,student,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+F000256,2025-10-25,late_return,0.75,0.75,0.0,paid,student,Laboratory Methods: Case Studies and Practice 5,Chemistry
+F000257,2025-11-11,late_return,11.25,11.25,0.0,paid,staff,Project Management: Principles and Applications 252,Management
+F000258,2025-11-13,late_return,5.25,5.25,0.0,paid,student,"Ecology: Concepts, Models, and Tools 292",Biology
+F000259,2025-11-21,late_return,3.75,3.75,0.0,paid,staff,Econometrics: Principles and Applications 293,Economics
+F000260,2025-10-23,damage,9.25,9.25,0.0,paid,student,Data Mining: A Modern Approach 241,Computer Science
+F000261,2025-12-02,lost_item,71.43,71.43,0.0,paid,staff,Numerical Methods: An Applied Introduction 251,Mathematics
+F000262,2025-11-17,late_return,7.5,4.73,2.77,partially_paid,faculty,Discrete Mathematics: A Modern Approach 171,Mathematics
+F000263,2025-11-24,late_return,6,4.18,1.82,partially_paid,student,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+F000264,2025-10-27,damage,19.31,19.31,0.0,paid,student,Econometrics: Principles and Applications 2,Economics
+F000265,2025-11-27,late_return,6,6,0.0,paid,student,Signal Processing: Methods for Researchers 110,Electrical Engineering
+F000266,2025-11-27,late_return,11.25,11.25,0.0,paid,student,Molecular Biology: Principles and Applications 283,Biology
+F000267,2025-12-25,lost_item,30.91,30.91,0.0,paid,public,Development Economics: A Modern Approach 73,Economics
+F000268,2025-12-20,lost_item,107.77,80.89,26.88,partially_paid,student,Econometrics: Case Studies and Practice 217,Economics
+F000269,2025-12-07,late_return,16.5,16.5,0.0,paid,student,Cloud Computing: Methods for Researchers 39,Computer Science
+F000270,2025-11-15,damage,28.99,28.99,0.0,paid,faculty,Development Economics: A Modern Approach 73,Economics
+F000271,2025-11-24,late_return,3.75,3.75,0.0,paid,student,Modern Iran: Principles and Applications 317,History
+F000272,2025-11-22,damage,14.41,14.41,0.0,paid,student,Strategic Management: Principles and Applications 17,Management
+F000273,2025-11-20,damage,33.72,33.72,0.0,paid,staff,Strategic Management: Case Studies and Practice 10,Management
+F000274,2025-12-06,late_return,3.75,1.2,2.55,partially_paid,faculty,Data Mining: Case Studies and Practice 27,Computer Science
+F000275,2025-12-02,late_return,0.75,0,0.75,unpaid,student,Numerical Methods: Principles and Applications 309,Mathematics
+F000276,2025-12-04,late_return,1.5,0,1.5,unpaid,student,Numerical Methods: An Applied Introduction 271,Mathematics
+F000277,2025-12-21,late_return,12,0,12.0,unpaid,faculty,Project Management: A Modern Approach 236,Management
+F000278,2025-12-14,late_return,11.25,0,11.25,unpaid,staff,Logic: Case Studies and Practice 184,Philosophy
+F000279,2026-01-10,lost_item,103.41,53.8,49.61,partially_paid,student,Optics: An Applied Introduction 125,Physics
+F000280,2025-12-14,late_return,11.25,11.25,0.0,paid,student,Behavioral Analysis: Principles and Applications 196,Psychology
+F000281,2025-12-24,late_return,6,6,0.0,paid,staff,"Public Policy: Concepts, Models, and Tools 268",Economics
+F000282,2025-12-27,late_return,12.75,12.75,0.0,paid,student,"Laboratory Methods: Concepts, Models, and Tools 233",Chemistry
+F000283,2026-01-16,lost_item,94.59,0,94.59,unpaid,student,Learning Theory: A Modern Approach 129,Psychology
+F000284,2025-12-10,damage,30.72,0,30.72,unpaid,staff,Machine Learning: An Applied Introduction 263,Computer Science
+F000285,2025-12-20,late_return,9,0,9.0,unpaid,student,Business Analytics: Case Studies and Practice 318,Management
+F000286,2025-12-28,late_return,14.25,3.91,10.34,partially_paid,student,Discrete Mathematics: A Modern Approach 171,Mathematics
+F000287,2025-12-17,late_return,6,3.98,2.02,partially_paid,student,Business Analytics: An Applied Introduction 115,Management
+F000288,2026-01-17,lost_item,61.2,61.2,0.0,paid,student,Construction Planning: Methods for Researchers 44,Civil Engineering
+F000289,2025-12-05,damage,9.6,9.6,0.0,paid,student,Microeconomics: An Applied Introduction 1,Economics
+F000290,2025-12-27,late_return,10.5,10.5,0.0,paid,student,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000291,2026-01-04,late_return,7.5,7.5,0.0,paid,student,"Statistical Physics: Concepts, Models, and Tools 279",Physics
+F000292,2025-12-31,late_return,9,9,0.0,paid,student,"Digital Circuits: Concepts, Models, and Tools 262",Electrical Engineering
+F000293,2025-12-24,late_return,1.5,0.52,0.98,partially_paid,student,"Research Methods: Concepts, Models, and Tools 302",Psychology
+F000294,2026-01-14,late_return,6.75,1.9,4.85,partially_paid,faculty,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000295,2026-01-09,late_return,12.75,3.87,8.88,partially_paid,student,"Discrete Mathematics: Concepts, Models, and Tools 98",Mathematics
+F000296,2026-01-12,late_return,14.25,14.25,0.0,paid,student,Project Management: Principles and Applications 300,Management
+F000297,2026-01-18,late_return,18,0,18.0,unpaid,faculty,Manufacturing Systems: An Applied Introduction 62,Mechanical Engineering
+F000298,2026-01-09,late_return,3.75,2.76,0.99,partially_paid,faculty,Optics: An Applied Introduction 281,Physics
+F000299,2026-01-16,late_return,8.25,8.25,0.0,paid,staff,Philosophy of Science: An Applied Introduction 75,Philosophy
+F000300,2026-01-08,late_return,2.25,0.63,1.62,partially_paid,student,Historical Methods: Methods for Researchers 20,History
+F000301,2026-01-10,late_return,8.25,8.25,0.0,paid,student,Ecology: A Modern Approach 244,Biology
+F000302,2026-02-06,late_return,17.25,17.25,0.0,paid,public,Data Mining: A Modern Approach 241,Computer Science
+F000303,2026-02-15,lost_item,109.57,0,109.57,unpaid,student,Microeconomics: Case Studies and Practice 162,Economics
+F000304,2026-01-11,late_return,5.25,0,5.25,waived,student,Data Mining: A Modern Approach 241,Computer Science
+F000305,2025-12-30,damage,19.85,19.85,0.0,paid,public,Research Methods: Case Studies and Practice 247,Psychology
+F000306,2026-01-13,late_return,0.75,0.75,0.0,paid,student,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+F000307,2026-01-10,late_return,3,3,0.0,paid,student,Political Philosophy: Principles and Applications 272,Philosophy
+F000308,2026-01-15,late_return,1.5,0.82,0.68,partially_paid,student,Microeconomics: Case Studies and Practice 117,Economics
+F000309,2026-02-14,late_return,15.75,0,15.75,waived,student,Digital Circuits: Case Studies and Practice 253,Electrical Engineering
+F000310,2026-01-31,late_return,5.25,5.25,0.0,paid,student,Genetics: Principles and Applications 84,Biology
+F000311,2026-01-31,late_return,13.5,0,13.5,waived,student,Machine Learning: An Applied Introduction 263,Computer Science
+F000312,2026-01-17,late_return,2.25,2.25,0.0,paid,student,Microeconomics: An Applied Introduction 68,Economics
+F000313,2026-02-08,late_return,6.75,0,6.75,waived,student,Ethics: A Modern Approach 135,Philosophy
+F000314,2026-02-06,late_return,5.25,5.25,0.0,paid,student,Database Systems: An Applied Introduction 149,Computer Science
+F000315,2026-01-27,late_return,6.75,6.75,0.0,paid,student,Project Management: Principles and Applications 270,Management
+F000316,2026-01-25,late_return,4.5,4.5,0.0,paid,student,Project Management: A Modern Approach 236,Management
+F000317,2026-02-07,late_return,9,0,9.0,unpaid,student,Optics: Principles and Applications 48,Physics
+F000318,2026-01-26,late_return,4.5,4.5,0.0,paid,staff,Behavioral Analysis: Methods for Researchers 182,Psychology
+F000319,2026-02-10,late_return,9,0,9.0,unpaid,staff,Behavioral Analysis: Methods for Researchers 182,Psychology
+F000320,2026-02-08,late_return,4.5,0,4.5,unpaid,student,Microeconomics: An Applied Introduction 68,Economics
+F000321,2026-02-17,late_return,7.5,7.5,0.0,paid,student,Machine Learning: Principles and Applications 22,Computer Science
+F000322,2026-02-15,late_return,11.25,6.31,4.94,partially_paid,staff,Operations Management: Case Studies and Practice 23,Management
+F000323,2026-02-20,late_return,7.5,7.5,0.0,paid,student,Database Systems: An Applied Introduction 149,Computer Science
+F000324,2026-02-17,late_return,3.75,3.75,0.0,paid,student,Research Methods: Case Studies and Practice 247,Psychology
+F000325,2026-02-13,late_return,5.25,5.25,0.0,paid,student,"Digital Circuits: Concepts, Models, and Tools 61",Electrical Engineering
+F000326,2026-02-17,late_return,2.25,2.25,0.0,paid,student,Laboratory Methods: A Modern Approach 80,Chemistry
+F000327,2026-02-23,late_return,1.5,0,1.5,unpaid,student,Signal Processing: Methods for Researchers 67,Electrical Engineering
+F000328,2026-03-21,late_return,15.75,15.75,0.0,paid,student,Microeconomics: A Modern Approach 258,Economics
+F000329,2026-03-29,lost_item,69.65,69.65,0.0,paid,faculty,Molecular Biology: An Applied Introduction 107,Biology
+F000330,2026-03-10,late_return,11.25,11.25,0.0,paid,student,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+F000331,2026-02-23,late_return,3,3,0.0,paid,student,Research Methods: An Applied Introduction 113,Psychology
+F000332,2026-02-18,damage,9.02,6.23,2.79,partially_paid,staff,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000333,2026-03-11,late_return,9.75,9.75,0.0,paid,student,Database Systems: Methods for Researchers 287,Computer Science
+F000334,2026-03-03,late_return,3,1.03,1.97,partially_paid,student,"Public Policy: Concepts, Models, and Tools 268",Economics
+F000335,2026-03-15,late_return,17.25,17.25,0.0,paid,student,Fluid Mechanics: An Applied Introduction 166,Mechanical Engineering
+F000336,2026-04-10,lost_item,81.15,0,81.15,unpaid,student,Urban Infrastructure: Methods for Researchers 214,Civil Engineering
+F000337,2026-03-23,late_return,7.5,0,7.5,unpaid,public,"Digital Circuits: Concepts, Models, and Tools 262",Electrical Engineering
+F000338,2026-03-19,late_return,9,0,9.0,unpaid,faculty,Microeconomics: Case Studies and Practice 162,Economics
+F000339,2026-03-06,late_return,3.75,2.28,1.47,partially_paid,student,Data Mining: Methods for Researchers 208,Computer Science
+F000340,2026-03-27,late_return,18,0,18.0,waived,student,Construction Planning: Principles and Applications 95,Civil Engineering
+F000341,2026-03-21,late_return,12.75,12.75,0.0,paid,student,Literary Criticism: Principles and Applications 218,Literature
+F000342,2026-03-16,late_return,7.5,0,7.5,unpaid,student,"Numerical Methods: Concepts, Models, and Tools 30",Mathematics
+F000343,2026-04-10,late_return,14.25,14.25,0.0,paid,student,Soil Mechanics: Principles and Applications 45,Civil Engineering
+F000344,2026-04-09,late_return,10.5,10.5,0.0,paid,student,"Cloud Computing: Concepts, Models, and Tools 168",Computer Science
+F000345,2026-04-13,late_return,12,0,12.0,unpaid,public,Database Systems: Case Studies and Practice 13,Computer Science
+F000346,2026-04-08,late_return,13.5,13.5,0.0,paid,student,Molecular Biology: An Applied Introduction 107,Biology
+F000347,2026-03-05,damage,22.29,22.29,0.0,paid,student,Optics: An Applied Introduction 239,Physics
+F000348,2026-03-28,late_return,2.25,0,2.25,unpaid,student,Political Philosophy: Principles and Applications 178,Philosophy
+F000349,2026-04-12,late_return,13.5,10.18,3.32,partially_paid,student,Molecular Biology: Principles and Applications 283,Biology
+F000350,2026-04-06,late_return,1.5,0,1.5,unpaid,public,Data Mining: Case Studies and Practice 27,Computer Science
+F000351,2026-04-16,late_return,8.25,8.25,0.0,paid,student,Power Networks: Methods for Researchers 87,Electrical Engineering
+F000352,2026-04-01,late_return,1.5,1.5,0.0,paid,student,Strategic Management: Methods for Researchers 282,Management
+F000353,2026-04-18,late_return,17.25,12.69,4.56,partially_paid,staff,Probability Theory: A Modern Approach 242,Mathematics
+F000354,2026-03-30,late_return,2.25,0,2.25,unpaid,student,Strategic Management: Methods for Researchers 74,Management
+F000355,2026-04-18,late_return,9.75,0,9.75,unpaid,staff,Business Analytics: Principles and Applications 310,Management
+F000356,2026-05-19,lost_item,33.76,14.35,19.41,partially_paid,student,Construction Planning: Principles and Applications 95,Civil Engineering
+F000357,2026-04-20,late_return,9,0,9.0,unpaid,public,Philosophy of Science: Principles and Applications 19,Philosophy
+F000358,2026-05-05,late_return,18,18,0.0,paid,faculty,Digital Circuits: Methods for Researchers 260,Electrical Engineering
+F000359,2026-04-10,damage,19,19,0.0,paid,faculty,"Discrete Mathematics: Concepts, Models, and Tools 294",Mathematics
+F000360,2026-04-30,late_return,1.5,0,1.5,waived,student,Statistical Physics: A Modern Approach 55,Physics
+F000361,2026-04-25,late_return,1.5,1.5,0.0,paid,staff,Public Policy: Principles and Applications 77,Economics
+F000362,2026-05-05,late_return,8.25,0,8.25,unpaid,student,Project Management: Principles and Applications 300,Management
+F000363,2026-05-14,late_return,15,15,0.0,paid,student,Database Systems: Case Studies and Practice 13,Computer Science
+F000364,2026-05-05,late_return,3,0.68,2.32,partially_paid,student,Urban Infrastructure: Principles and Applications 185,Civil Engineering
+F000365,2026-05-03,late_return,11.25,0,11.25,waived,student,Signal Processing: An Applied Introduction 219,Electrical Engineering
+F000366,2026-05-23,lost_item,64.11,0,64.11,unpaid,faculty,Digital Circuits: A Modern Approach 223,Electrical Engineering
+F000367,2026-05-14,late_return,16.5,16.5,0.0,paid,staff,"Probability Theory: Concepts, Models, and Tools 24",Mathematics
+F000368,2026-05-01,late_return,6,6,0.0,paid,staff,Literary Criticism: Principles and Applications 141,Literature
+F000369,2026-05-19,late_return,13.5,13.5,0.0,paid,student,"Cloud Computing: Concepts, Models, and Tools 267",Computer Science
+F000370,2026-05-09,late_return,10.5,0,10.5,unpaid,student,"Analytical Chemistry: Concepts, Models, and Tools 97",Chemistry
+F000371,2026-04-16,damage,10.36,10.36,0.0,paid,student,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+F000372,2026-05-24,late_return,12,12,0.0,paid,student,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+F000373,2026-05-03,late_return,0.75,0.3,0.45,partially_paid,staff,Fluid Mechanics: Principles and Applications 188,Mechanical Engineering
+F000374,2026-05-25,late_return,6.75,6.75,0.0,paid,student,Numerical Methods: Principles and Applications 33,Mathematics
+F000375,2026-05-24,late_return,6,2.94,3.06,partially_paid,faculty,Digital Circuits: Methods for Researchers 260,Electrical Engineering
+F000376,2026-06-08,late_return,15.75,10,5.75,partially_paid,student,Microeconomics: Case Studies and Practice 162,Economics
+F000377,2026-05-26,late_return,6.75,6.75,0.0,paid,public,Microeconomics: A Modern Approach 258,Economics
+F000378,2026-05-20,late_return,0.75,0.75,0.0,paid,student,"Strategic Management: Concepts, Models, and Tools 124",Management
+F000379,2026-05-26,late_return,4.5,4.5,0.0,paid,faculty,"Classical Mechanics: Concepts, Models, and Tools 224",Physics
+F000380,2026-06-08,late_return,9,0,9.0,waived,student,"Linear Algebra: Concepts, Models, and Tools 298",Mathematics
+F000381,2026-05-24,late_return,6,6,0.0,paid,student,Digital Circuits: A Modern Approach 60,Electrical Engineering
+F000382,2026-05-12,damage,15.49,15.49,0.0,paid,student,Behavioral Analysis: Methods for Researchers 199,Psychology
+F000383,2026-06-01,late_return,7.5,0,7.5,unpaid,faculty,Public Policy: Principles and Applications 77,Economics
+F000384,2026-05-20,damage,15.57,15.57,0.0,paid,public,Urban Infrastructure: Principles and Applications 185,Civil Engineering
+F000385,2026-06-29,lost_item,104.68,104.68,0.0,paid,student,Development Economics: Principles and Applications 136,Economics
+F000386,2026-06-18,late_return,17.25,17.25,0.0,paid,student,Cloud Computing: Case Studies and Practice 156,Computer Science
+F000387,2026-06-21,late_return,18,18,0.0,paid,staff,Discrete Mathematics: A Modern Approach 171,Mathematics
+F000388,2026-06-20,late_return,16.5,0,16.5,unpaid,student,Linear Algebra: Case Studies and Practice 6,Mathematics
+F000389,2026-06-14,late_return,11.25,4.62,6.63,partially_paid,student,Digital Circuits: A Modern Approach 60,Electrical Engineering
+F000390,2026-06-24,late_return,11.25,11.25,0.0,paid,student,Data Mining: Principles and Applications 313,Computer Science
+F000391,2026-06-26,late_return,9.75,2.27,7.48,partially_paid,student,Behavioral Analysis: Methods for Researchers 182,Psychology
+F000392,2026-06-27,late_return,5.25,0,5.25,waived,faculty,Logic: Case Studies and Practice 114,Philosophy
+F000393,2026-06-18,late_return,8.25,3.24,5.01,partially_paid,student,Econometrics: Principles and Applications 293,Economics
+F000394,2026-06-17,late_return,5.25,5.25,0.0,paid,public,Quantum Mechanics: Case Studies and Practice 35,Physics
+F000395,2026-06-26,late_return,1.5,0,1.5,waived,faculty,Analytical Chemistry: An Applied Introduction 134,Chemistry
+F000396,2026-07-06,late_return,18,0,18.0,unpaid,staff,"Philosophy of Science: Concepts, Models, and Tools 154",Philosophy
+F000397,2026-07-05,late_return,16.5,16.5,0.0,paid,student,"Numerical Methods: Concepts, Models, and Tools 191",Mathematics
+F000398,2026-07-03,late_return,9.75,0,9.75,unpaid,student,Project Management: Principles and Applications 145,Management
+F000399,2026-06-19,late_return,3,3,0.0,paid,student,"Urban Infrastructure: Concepts, Models, and Tools 79",Civil Engineering
+F000400,2026-06-24,late_return,4.5,4.5,0.0,paid,student,Persian Poetry: Principles and Applications 240,Literature
+F000401,2026-06-07,damage,18.73,18.73,0.0,paid,student,Cloud Computing: Principles and Applications 102,Computer Science
+F000402,2026-07-08,late_return,3,3,0.0,paid,staff,Strategic Management: An Applied Introduction 106,Management
+F000403,2026-07-04,late_return,1.5,1.5,0.0,paid,faculty,Research Methods: Case Studies and Practice 247,Psychology
+F000404,2026-06-27,late_return,0.75,0.75,0.0,paid,student,Manufacturing Systems: A Modern Approach 254,Mechanical Engineering
+F000405,2026-07-08,late_return,7.5,7.5,0.0,paid,student,"Probability Theory: Concepts, Models, and Tools 24",Mathematics
+F000406,2026-07-07,damage,10.13,10.13,0.0,paid,student,Thermodynamics: Methods for Researchers 173,Mechanical Engineering
+F000407,2026-07-08,late_return,3.75,3.75,0.0,paid,student,Development Economics: Methods for Researchers 38,Economics
+F000408,2026-07-08,late_return,1.5,0.7,0.8,partially_paid,faculty,Data Mining: An Applied Introduction 116,Computer Science

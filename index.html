@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Central University Library BI Website</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="butterfly-field" aria-hidden="true">
+    <span class="butterfly butterfly-one"></span>
+    <span class="butterfly butterfly-two"></span>
+    <span class="butterfly butterfly-three"></span>
+    <span class="butterfly butterfly-four"></span>
+    <span class="butterfly butterfly-five"></span>
+    <span class="butterfly butterfly-six"></span>
+  </div>
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">BI</div>
+      <div>
+        <strong>Library BI</strong>
+        <span>Sharif University</span>
+      </div>
+    </div>
+    <nav class="nav" aria-label="Website sections">
+      <button data-view="overview" class="active">Overview</button>
+      <button data-view="manager">Manager</button>
+      <button data-view="analyst">Analyst</button>
+      <button data-view="member">Member</button>
+      <button data-view="chatbot">Telegram Bot</button>
+      <button data-view="looker">Looker Studio</button>
+      <button data-view="report">Report</button>
+      <button data-view="erd">ERD & Data</button>
+      <button data-view="downloads">Downloads</button>
+    </nav>
+  </aside>
+
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Business Intelligence Course Project</p>
+        <h1 id="page-title">Central University Library Management System</h1>
+        <p id="page-subtitle">Integrated website for dashboarding, report, chatbot design, ERD, and Looker Studio delivery.</p>
+      </div>
+      <div class="top-meta">
+        <span>Mohadese Nejati</span>
+        <span>Dr. Ghodosi</span>
+        <span>20 Mordad</span>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <label>
+        Search titles
+        <input id="global-search" type="search" placeholder="Try database, management, mathematics">
+      </label>
+      <a class="button-link" href="downloads/looker_exports_upload.zip" download>Download Looker CSVs</a>
+    </section>
+
+    <div id="view-root"></div>
+  </main>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
